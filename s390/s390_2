@@ -1,0 +1,5 @@
+vendor_id       : IBM/S390
+# processors    : 2
+bogomips per cpu: 39.56
+processor 0: version = 00,  identification = 00BEEF,  machine = 9762
+processor 1: version = 00,  identification = 10BEEF,  machine = 9762
