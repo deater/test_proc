@@ -1,0 +1,5 @@
+cpu             : 440GX Rev. A
+revision        : 24.80 (pvr 51b2 1850)
+bogomips        : 624.23
+vendor          : IBM
+machine         : PPC440GX EVB (Ocotea)

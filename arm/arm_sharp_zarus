@@ -1,0 +1,24 @@
+Processor       : Intel XScale-PXA255 rev 6 (v5l)
+BogoMIPS        : 397.31
+Features        : swp half thumb fastmult edsp=20
+CPU implementor : 0x69
+CPU architecture: 5TE
+CPU variant     : 0x0
+CPU part        : 0x2d0
+CPU revision    : 6
+Cache type      : undefined 5
+Cache clean     : undefined 5
+Cache lockdown  : undefined 5
+Cache unified   : harvard
+I size          : 16384
+I assoc         : 16
+I line length   : 32
+I sets          : 32
+D size          : 16384
+D assoc         : 16
+D line length   : 32
+D sets          : 32
+
+Hardware        : SHARP Shepherd
+Revision        : 0000
+Serial          : 0000000000000000

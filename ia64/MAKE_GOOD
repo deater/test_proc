@@ -1,0 +1,5 @@
+#!/bin/sh
+
+LINUX_LOGO=../../linux_logo-4.08/linux_logo
+
+for NAME in ia64* ; do $LINUX_LOGO -g -e $NAME > ./known_good/$NAME.good; done

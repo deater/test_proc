@@ -1,0 +1,11 @@
+system type             : Digital DECstation 5000/2x0
+processor               : 0
+cpu model               : R3000A V3.0  FPU V4.0
+BogoMIPS                : 39.90
+wait instruction        : no
+microsecond timers      : no
+tlb_entries             : 64
+extra interrupt vector  : no
+hardware watchpoint     : no
+VCED exceptions         : not available
+VCEI exceptions         : not available

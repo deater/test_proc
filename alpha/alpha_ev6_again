@@ -1,0 +1,21 @@
+cpu                     : Alpha
+cpu model               : EV6
+cpu variation           : 7
+cpu revision            : 0
+cpu serial number       :
+system type             : Tsunami
+system variation        : Goldrush
+system revision         : 0
+system serial number    : ay91560403
+cycle frequency [Hz]    : 500000000
+timer frequency [Hz]    : 1024.00
+page size [bytes]       : 8192
+phys. address bits      : 44
+max. addr. space #      : 255
+BogoMIPS                : 998.56
+kernel unaligned acc    : 0 (pc=0,va=0)
+user unaligned acc      : 0 (pc=0,va=0)
+platform string         : AlphaServer DS20 500 MHz
+cpus detected           : 2
+cpus active             : 2
+cpu active mask         : 0000000000000003

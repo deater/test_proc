@@ -1,0 +1,10 @@
+cpu                     : MIPS
+cpu model               : Nevada V10.0
+system type             : Cobalt Microserver 27
+BogoMIPS                : 249.86
+byteorder               : little endian
+unaligned accesses      : 16
+wait instruction        : yes
+microsecond timers      : yes
+extra interrupt vector  : yes
+hardware watchpoint     : no

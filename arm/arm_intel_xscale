@@ -1,0 +1,20 @@
+Processor       : Intel XScale-PXA250 rev 3 (v5l)
+BogoMIPS        : 397.31
+Features        : swp half thumb fastmult edsp
+CPU implementor : 0x69
+CPU architecture: 5TE
+CPU variant     : 0x0
+CPU part        : 0x290
+CPU revision    : 3
+Cache type      : undefined 5
+Cache clean     : undefined 5
+Cache lockdown  : undefined 5
+Cache unified   : Harvard
+I size          : 32768
+I assoc         : 32
+I line length   : 32
+I sets          : 32
+D size          : 32768
+D assoc         : 32
+D line length   : 32
+D sets          : 32

@@ -1,0 +1,12 @@
+cpu             : 7457, altivec supported
+clock           : 999MHz
+revision        : 1.1 (pvr 8002 0101)
+bogomips        : 761.85
+machine         : PowerBook6,2
+motherboard     : PowerBook6,2 MacRISC3 Power Macintosh
+board revision  : 00000002
+detected as     : 287 (Unknown Intrepid-based)
+pmac flags      : 00000008
+L2 cache        : 512K unified
+memory          : 256MB
+pmac-generation : NewWorld

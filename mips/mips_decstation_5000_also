@@ -1,0 +1,11 @@
+system type             : Digital DECstation 5000/2x0
+processor               : 0
+cpu model               : R4400SC V4.0  FPU V0.0
+BogoMIPS                : 59.86
+wait instruction        : no
+microsecond timers      : yes
+tlb_entries             : 48
+extra interrupt vector  : no
+hardware watchpoint     : yes
+VCED exceptions         : 464662
+VCEI exceptions         : 667534

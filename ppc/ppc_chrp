@@ -1,0 +1,10 @@
+cpu             : 604r
+clock           : 200MHz
+revision        : 18.3 (pvr 0009 1203)
+bogomips        : 398.13
+machine         : CHRP IBM,LongTrail-2
+memory bank 0   : 32 MB SDRAM
+memory bank 1   : 32 MB SDRAM
+memory bank 2   : 32 MB SDRAM
+memory bank 3   : 32 MB SDRAM
+board l2        : 512 KB Pipelined Synchronous (Write-Through)

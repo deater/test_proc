@@ -1,0 +1,15 @@
+cpu : TI UltraSparc III+ (Cheetah+)
+fpu : UltraSparc III+ integrated FPU
+promlib : Version 3 Revision 5
+prom : 4.5.21
+type : sun4u
+ncpus probed : 2
+ncpus active : 2
+Cpu0Bogo : 1599.07
+Cpu0ClkTck : 0000000047868c00
+Cpu1Bogo : 1.63
+Cpu1ClkTck : 0000000047868c00
+MMU Type : Cheetah+
+State:
+CPU0: online
+CPU1: online

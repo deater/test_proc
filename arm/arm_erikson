@@ -1,0 +1,6 @@
+cpu             : 405CR
+clock           : 200MHz
+revision        : 1.69 (pvr 4011 0145)
+bogomips        : 199.88
+machine         : Ericsson ELN 2XX
+plb bus clock   : 100MHz
