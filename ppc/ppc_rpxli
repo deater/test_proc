@@ -1,0 +1,7 @@
+processor       : 0
+cpu             : 8xx
+clock           : 64MHz
+bus clock       : 32MHz
+revision        : 0.0 (pvr 0050 0000)
+bogomips        : 63.48
+zero pages      : total: 0 (0Kb) current: 0 (0Kb) hits: 0/0 (0%)

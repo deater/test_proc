@@ -1,0 +1,12 @@
+cpu             : Fujitsu  MB86904
+fpu             : Lsi Logic/Meiko L64804 or compatible
+promlib         : Version 3 Revision 2
+prom            : 2.15
+type            : sun4m
+ncpus probed    : 1
+ncpus active    : 1
+BogoMips        : 109.36
+MMU type        : Fujitsu Swift
+contexts        : 256
+nocache total   : 1048576
+nocache used    : 782848

@@ -1,0 +1,17 @@
+processor       : 0
+vendor_id       : CyrixInstead
+cpu family      : 5
+model           : 7
+model name      : Cyrix MediaGXtm MMXtm Enhanced
+stepping        : 4
+fdiv_bug        : no
+hlt_bug         : no
+sep_bug         : no
+f00f_bug        : no
+coma_bug        : no
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 2
+wp              : yes
+flags           : fpu msr cx8 cmov 16 mmx cxmmx
+bogomips        : 46.89

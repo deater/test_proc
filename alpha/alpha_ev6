@@ -1,0 +1,20 @@
+cpu                     : Alpha
+cpu model               : EV6
+cpu variation           : 7
+cpu revision            : 0
+cpu serial number       :
+system type             : Tsunami
+system variation        : DP264
+system revision         : 0
+system serial number    :
+cycle frequency [Hz]    : 500000000
+timer frequency [Hz]    : 1024.00
+page size [bytes]       : 8192
+phys. address bits      : 44
+max. addr. space #      : 255
+BogoMIPS                : 994.05
+kernel unaligned acc    : 0 (pc=0,va=0)
+user unaligned acc      : 3285 (pc=120025688,va=12009bd84)
+platform string         : AlphaPC 264DP 500 MHz
+cpus detected           : 2
+CPUs probed 2 active 2 map 0x3 IPIs 4552

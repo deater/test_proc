@@ -1,0 +1,18 @@
+processor       : 0
+vendor_id       : CentaurHauls
+cpu family      : 6
+model           : 6
+model name      : VIA Samuel
+stepping        : 0
+cpu MHz         : 501.155
+cache size      : 128 KB
+fdiv_bug        : no
+hlt_bug         : no
+f00f_bug        : no
+coma_bug        : no
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 1
+wp              : yes
+flags           : fpu de tsc msr mce cx8 mtrr pge mmx 3dnow
+bogomips        : 999.42

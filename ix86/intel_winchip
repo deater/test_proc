@@ -1,0 +1,18 @@
+processor       : 0
+vendor_id       : CentaurHauls
+cpu family      : 5
+model           : 8
+model name      : WinChip 2
+stepping        : 5
+cpu MHz         : 240.552
+cache size      : 64 KB
+fdiv_bug        : no
+hlt_bug         : no
+f00f_bug        : no
+coma_bug        : no
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 1
+wp              : yes
+flags           : fpu de tsc msr mce cx8 mmx 3dnow centaur_mcr
+bogomips        : 480.05

@@ -1,0 +1,9 @@
+cpu             : TI UltraSparc I   (SpitFire)
+fpu             : UltraSparc I integrated FPU
+promlib         : Version 3 Revision 1
+prom            : 3.1.1
+type            : sun4u
+ncpus probed    : 1
+ncpus active    : 1
+BogoMips        : 333.41
+MMU Type        : Spitfire

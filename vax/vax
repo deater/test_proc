@@ -1,0 +1,5 @@
+cpu                     : VAX
+cpu type                :
+cpu sidex               : 0
+page size               : 4096
+BogoMIPS                : 5.42

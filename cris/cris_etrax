@@ -1,0 +1,12 @@
+cpu             : CRIS
+cpu revision    : 10
+cpu model       : ETRAX 100LX
+cache size      : 8 kB
+fpu             : no
+mmu             : yes
+ethernet        : 10/100 Mbps
+token ring      : no
+scsi            : yes
+ata             : yes
+usb             : yes
+bogomips        : 99.84

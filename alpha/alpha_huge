@@ -1,0 +1,21 @@
+cpu                     : Alpha
+cpu model               : EV67
+cpu variation           : 7
+cpu revision            : 0
+cpu serial number       :
+system type             : Wildfire
+system variation        : 0
+system revision         : 0
+system serial number    :
+cycle frequency [Hz]    : 730794500
+timer frequency [Hz]    : 1000.00
+page size [bytes]       : 8192
+phys. address bits      : 44
+max. addr. space #      : 255
+BogoMIPS                : 1488.97
+kernel unaligned acc    : 0 (pc=0,va=0)
+user unaligned acc      : 0 (pc=0,va=0)
+platform string         : Compaq AlphaServer GS320 6/731
+cpus detected           : 31
+cpus active             : 31
+cpu active mask         : 00000000ffffff7f

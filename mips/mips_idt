@@ -1,0 +1,12 @@
+cpu                     : MIPS
+cpu model               : RC32300 V0.0
+system type             : IDT 79S334
+BogoMIPS                : 149.91
+byteorder               : little endian
+unaligned accesses      : 329630
+wait instruction        : no
+microsecond timers      : no
+extra interrupt vector  : yes
+hardware watchpoint     : yes
+VCED exceptions         : not available
+VCEI exceptions         : not available

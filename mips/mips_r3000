@@ -1,0 +1,14 @@
+cpu                     : MIPS
+cpu model               : R3000 V2.0
+system type             : Digital DECstation 5000/200
+BogoMIPS                : 24.87
+byteorder               : little endian
+unaligned accesses      : 0
+wait instruction        : no
+microsecond timers      : no
+extra interrupt vector  : no
+hardware watchpoint     : no
+VCED exceptions         : not available
+VCEI exceptions         : not available
+ll emulations           : 0
+sc emulations           : 0

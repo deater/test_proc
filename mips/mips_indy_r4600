@@ -1,0 +1,9 @@
+processor               : 0
+cpu model               : R4600 V2.0  FPU V2.0
+BogoMIPS                : 100.23
+wait instruction        : yes
+microsecond timers      : yes
+extra interrupt vector  : no
+hardware watchpoint     : no
+VCED exceptions         : not available
+VCEI exceptions         : not available

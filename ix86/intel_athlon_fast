@@ -1,0 +1,14 @@
+processor :	0
+vendor_id :	AuthenticAMD
+cpu family:	6
+model     :	4
+model name:	AMD Athlon(tm) processor
+stepping  :	4
+cpu MHz   :	1401.748
+cache size:	256 KB
+fpu       :	yes
+fpu_except:	yes
+cpuid levl:	1
+wp        :	yes
+flags     :	fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 mmx fxsr syscall mmxext 3dnowext 3dnow
+bogomips  :	2798.38

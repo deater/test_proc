@@ -1,0 +1,7 @@
+processor       : 0
+cpu             : POWER3 (630+)
+clock           : 375MHz
+revision        : 1.4
+bogomips        : 748.75
+zero pages      : total: 0 (0Kb) current: 0 (0Kb) hits: 0/0 (0%)
+machine         : CHRP IBM,7044-270

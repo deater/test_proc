@@ -1,0 +1,12 @@
+processor       : 0
+cpu             : 7410, altivec supported
+temperature     : 59-61 C (uncalibrated)
+clock           : 500MHz
+revision        : 17.3 (pvr 800c 1103)
+bogomips        : 996.14
+
+machine         : PowerBook3,2
+motherboard     : PowerBook3,2 MacRISC2 MacRISC Power Macintosh
+L2 cache        : 1024K unified
+memory          : 256MB
+pmac-generation : NewWorld

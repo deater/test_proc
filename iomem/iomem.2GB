@@ -1,0 +1,34 @@
+00000000-0009cfff : System RAM
+0009d000-0009ffff : reserved
+000a0000-000bffff : Video RAM area
+000c0000-000c7fff : Video ROM
+000c8000-000cb7ff : Extension ROM
+000cb800-000ce7ff : Extension ROM
+000f0000-000fffff : System ROM
+00100000-7fffffff : System RAM
+  00100000-00284537 : Kernel code
+  00284538-002f471f : Kernel data
+80000000-800003ff : PCI device 110a:0015
+f0000000-f0000fff : PCI device 1013:00b8
+f0100000-f02fffff : PCI Bus #01
+  f0100000-f01fffff : PCI device 8086:1229
+  f0200000-f0200fff : PCI device 1000:000f
+  f0201000-f0201fff : PCI device 1000:000f
+  f0202000-f02020ff : PCI device 1000:000f
+  f0202400-f02024ff : PCI device 1000:000f
+f0500000-f05fffff : PCI device 8086:1960
+f2000000-f3ffffff : PCI device 1013:00b8
+f4000000-f40fffff : PCI Bus #01
+  f4000000-f4000fff : PCI device 8086:1229
+    f4000000-f4000fff : eepro100
+f4200000-f42fffff : PCI device 8086:1229
+f4600000-f4600fff : PCI device 8086:1229
+  f4600000-f4600fff : eepro100
+f4700000-f47fffff : PCI Bus #04
+  f4700000-f470ffff : PCI device 1069:ba55
+  f4710000-f471007f : PCI device 1011:1065
+f8000000-fbffffff : PCI Bus #04
+  f8000000-fbffffff : PCI device 1011:1065
+fec00000-fecfffff : reserved
+fee00000-feefffff : reserved
+ffe00000-ffffffff : reserved
