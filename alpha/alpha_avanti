@@ -1,0 +1,19 @@
+cpu                     : Alpha
+cpu model               : EV4
+cpu variation           : 0
+cpu revision            : 0
+cpu serial number       : Linux_is_Great!
+system type             : Avanti
+system variation        : 0
+system revision         : 0
+system serial number    : MILO-2.2-18
+cycle frequency [Hz]    : 166521620
+timer frequency [Hz]    : 1024.00
+page size [bytes]       : 8192
+phys. address bits      : 34
+max. addr. space #      : 63
+BogoMIPS                : 326.08
+kernel unaligned acc    : 7671003 (pc=fffffc0000954730,va=fffffc00052da056)
+user unaligned acc      : 252 (pc=120011758,va=12006c7e4)
+platform string         : N/A
+cpus detected           : 0

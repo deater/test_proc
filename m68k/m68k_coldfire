@@ -1,0 +1,6 @@
+CPU:            COLDFIRE(m5272)
+MMU:            none
+FPU:            none
+Clocking:       65.5MHz
+BogoMips:       43.72
+Calibration:    21862400 loops
