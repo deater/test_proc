@@ -1,0 +1,12 @@
+cpu		: 750CX
+temperature 	: 43-45 C (uncalibrated)
+clock		: 499MHz
+revision	: 34.20 (pvr 0008 2214)
+bogomips	: 996.14
+machine		: PowerBook4,1
+motherboard	: PowerBook4,1 PowerBook2,2 MacRISC2 MacRISC Power Macintosh
+detected as	: 257 (iBook 2)
+pmac flags	: 00000003
+L2 cache	: 256K unified
+memory		: 192MB
+pmac-generation	: NewWorld
