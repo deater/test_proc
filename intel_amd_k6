@@ -1,0 +1,16 @@
+processor	: 0
+cpu family	: 5
+model		: AMD-K6tm w/ multimedia extensions
+vendor_id	: AuthenticAMD
+stepping	: 1
+fdiv_bug	: no
+hlt_bug		: no
+sep_bug		: no
+f00f_bug	: no
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 1
+wp		: yes
+flags		: fpu vme de pse tsc msr mce cx8 mmx
+bogomips	: 374.37
+

@@ -1,0 +1,18 @@
+cpu			: Alpha
+cpu model		: LCA4
+cpu variation		: -4294967301
+cpu revision		: 0
+cpu serial number	: Linux_is_Great!
+system type		: Noname
+system variation	: 0
+system revision		: 0
+system serial number	: MILO-0000
+cycle frequency [Hz]	: 233306922
+timer frequency [Hz]	: 1024.00
+page size [bytes]	: 8192
+phys. address bits	: 34
+max. addr. space #	: 63
+BogoMIPS		: 227.01
+kernel unaligned acc	: 0 (pc=0,va=0)
+user unaligned acc	: 0 (pc=0,va=0)
+platform string		: N/A

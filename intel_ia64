@@ -1,0 +1,51 @@
+processor  : 0
+vendor     : GenuineIntel
+family     : IA-64
+model      : Itanium
+revision   : 0
+archrev    : 0
+features   : standard
+cpu number : 1119839285174372
+cpu regs   : 4
+cpu MHz    : 499.013000
+itc MHz    : 499.013000
+BogoMIPS   : 498.07
+
+processor  : 1
+vendor     : GenuineIntel
+family     : IA-64
+model      : Itanium
+revision   : 0
+archrev    : 0
+features   : standard
+cpu number : 480900295645602
+cpu regs   : 4
+cpu MHz    : 499.013000
+itc MHz    : 499.013000
+BogoMIPS   : 498.07
+
+processor  : 2
+vendor     : GenuineIntel
+family     : IA-64
+model      : Itanium
+revision   : 0
+archrev    : 0
+features   : standard
+cpu number : 483024574949825
+cpu regs   : 4
+cpu MHz    : 499.013000
+itc MHz    : 499.013000
+BogoMIPS   : 498.07
+
+processor  : 3
+vendor     : GenuineIntel
+family     : IA-64
+model      : Itanium
+revision   : 0
+archrev    : 0
+cpu number : 904149409149124
+cpu regs   : 4
+cpu MHz    : 499.013000
+itc MHz    : 499.013000
+BogoMIPS   : 498.07
+features   : standard

@@ -1,0 +1,9 @@
+processor       : 0
+vendor_id       : GenuineIntel
+cpu family      : 6
+model           : 6
+model name      : Mobile Pentium II
+stepping        : 10
+cpuid level     : 2
+flags           : fpu vme de pse tsc msr pae mce cx8 sep mtrr pge mca cmov pat pse36 mmx fxsr
+bogomips        : 233.47

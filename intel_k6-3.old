@@ -1,0 +1,14 @@
+processor       : 0
+cpu             : 586
+model           : 9
+vendor_id       : AuthenticAMD
+stepping        : 1
+fdiv_bug        : no
+hlt_bug         : no
+f00f_bug        : no
+fpu             : yes
+fpu_exception   : yes
+cpuid           : yes
+wp              : yes
+flags           : fpu vme de pse tsc msr mce cx8 pge mmx
+bogomips        : 901.12

@@ -1,0 +1,14 @@
+        cpu             : Texas Instruments, Inc. - SuperSparc 50
+        fpu             : SuperSparc on-chip FPU
+        promlib         : Version 3 Revision 2
+        prom            : 2.25
+        type            : sun4m
+        ncpus probed    : 2
+        ncpus active    : 1
+        BogoMips        : 39.93
+        MMU type        : TI Viking
+        invall          : 10094
+        invmm           : 112940
+        invrnge         : 1597264
+        invpg           : 1305144
+        contexts        : 65536

@@ -1,0 +1,30 @@
+Model:          Amiga 3000
+CPU:            68060
+MMU:            68060
+FPU:            68060
+Clocking:       49.6MHz
+BogoMips:       99.32
+Calibration:    49664000 loops
+System Memory:  73728K
+Chip RAM:       2048K
+PS Freq:        50Hz
+EClock Freq:    709379Hz
+Graphics:       ECS
+Detected hardware:
+        Amiga Video
+        Blitter
+        Amber Flicker Fixer
+        Amiga Audio
+        Floppy Controller
+        SCSI Controller WD33C93 (A3000 style)
+        Keyboard
+        Mouse Port
+        Serial Port
+        Parallel Port
+        Hardware Clock (A3000 style)
+        Chip RAM
+        Paula 8364
+        Denise 8373
+        Fat Hires PAL Agnus 8372
+        Magic Hard Rekick
+        Zorro AutoConfig: 2 Expansion Devices

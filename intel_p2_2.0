@@ -1,0 +1,14 @@
+processor       : 0
+cpu             : 686
+model           : 5
+vendor_id       : GenuineIntel
+stepping        : 1
+fdiv_bug        : no
+hlt_bug         : no
+f00f_bug        : no
+fpu             : yes
+fpu_exception   : yes
+cpuid           : yes
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 11 mtrr pge mca cmov 16 17 mmx 24
+bogomips        : 400.59

@@ -1,0 +1,15 @@
+processor       : 0
+cpu family      : 5
+model           : 6x86L 2x Core/Bus Clock
+vendor_id       : CyrixInstead
+stepping        : 2 rev 2
+fdiv_bug        : no
+hlt_bug         : no
+sep_bug         : no
+f00f_bug        : no
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 1
+wp              : yes
+flags           : fpu de cx8
+bogomips        : 149.09

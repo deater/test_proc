@@ -1,0 +1,13 @@
+00000000-0009fbff : System RAM
+0009fc00-0009ffff : System RAM
+000a0000-000bffff : Video RAM area
+000c0000-000c7fff : Video ROM
+000f0000-000fffff : System ROM
+00100000-09ffffff : System RAM
+  00100000-00231c4f : Kernel code
+  00231c50-00249157 : Kernel data
+e0000000-e1ffffff : 3Dfx Interactive, Inc. Voodoo Banshee
+e2000000-e3ffffff : 3Dfx Interactive, Inc. Voodoo Banshee
+e4000000-e4000fff : Brooktree Corporation Bt848 TV with DMA push
+e4001000-e40010ff : Lite-On Communications Inc LNE100TX
+ffff0000-ffffffff : reserved

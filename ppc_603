@@ -1,0 +1,14 @@
+cpu			: PowerPC 603 rev 3.2
+model			: BeBox
+bogomips		: 43.72
+hid0			: 0x0090d000
+context switches	: 7654713
+instruction page faults	: 7264014
+data page faults	: 8699956
+cache flushes		: 8338032
+hardware interrupts	: 132916656
+TLBIA			: 7654713
+TLBIE			: 30530940
+instruction TLB misses	: 360295061
+data load TLB misses	: 1440098578
+data store TLB misses	: 161411468

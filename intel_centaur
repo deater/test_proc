@@ -1,0 +1,22 @@
+
+From root@neko.binary9.net Fri Sep 18 23:43:02 1998
+Date: Fri, 18 Sep 1998 23:00:29 -0400
+From: root@neko.binary9.net
+To: alex.buell@tahallah.demon.co.uk
+Subject: cpuinfo
+
+processor	: 0
+cpu family	: 5
+model		: C6
+vendor_id	: CentaurHauls
+stepping	: 2
+fdiv_bug	: no
+hlt_bug		: no
+sep_bug		: no
+f00f_bug	: no
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 1
+wp		: yes
+flags		: fpu de tsc msr mce mmx
+bogomips	: 79.67

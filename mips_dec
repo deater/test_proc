@@ -1,0 +1,12 @@
+cpu                     : MIPS
+cpu model               : R4400SC V4.0
+system type             : Digital DECstation 5000/2x0
+BogoMIPS                : 59.90
+byteorder               : little endian
+unaligned accesses      : 0
+wait instruction        : no
+microsecond timers      : yes
+extra interrupt vector  : no
+hardware watchpoint     : yes
+VCED exceptions         : 5244
+VCEI exceptions         : 17100

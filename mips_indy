@@ -1,0 +1,12 @@
+cpu                     : MIPS
+cpu model               : R4000SC V6.0
+system type             : SGI Indy
+BogoMIPS                : 87.24
+byteorder               : big endian
+unaligned accesses      : 0
+wait instruction        : no
+microsecond timers      : no
+extra interrupt vector  : no
+hardware watchpoint     : yes
+VCED exceptions         : 12424
+VCEI exceptions         : 37454

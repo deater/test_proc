@@ -1,0 +1,20 @@
+processor	: 0
+vendor_id	: AuthenticAMD
+cpu family	: 6
+model		: 3
+model name	: AMD Duron(tm) Processor
+stepping	: 0
+cpu MHz		: 601.082025
+cache size	: 64 KB
+fdiv_bug	: no
+hlt_bug		: no
+sep_bug		: no
+f00f_bug	: no
+coma_bug	: no
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 1
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 sep mtrr pge mca cmov pat pse36 psn mmxext mmx fxsr 3dnowext 3dnow
+bogomips	: 1199.31
+

@@ -1,0 +1,12 @@
+processor	: 0
+cpu		: 604e
+clock		: 200MHz
+revision	: 18.3
+bogomips	: 398.13
+zero pages	: total 0 (0Kb) current: 0 (0Kb) hits: 0/450 (0%)
+machine		: CHRP IBM,LongTrail-2
+memory bank 0	: 32 MB SDRAM
+memory bank 1	: 32 MB SDRAM
+memory bank 2	: 32 MB SDRAM
+memory bank 3	: 32 MB SDRAM
+board l2	: 512 KB Pipelined Synchronous (Write-Through)

@@ -1,0 +1,17 @@
+cpu                     : Alpha
+cpu model               : EV56
+cpu variation           : 0
+cpu revision            : 0
+cpu serial number       : Linux_is_Great!
+system type             : EB164
+system variation        : SX164
+system revision         : 0
+system serial number    : MILO-0000
+cycle frequency [Hz]    : 0
+timer frequency [Hz]    : 1024.00
+page size [bytes]       : 8192
+phys. address bits      : 40
+max. addr. space #      : 127
+BogoMIPS                : 528.48
+kernel unaligned acc    : 0 (pc=0,va=0)
+user unaligned acc      : 0 (pc=0,va=0)

@@ -1,0 +1,20 @@
+processor	: 0
+vendor_id	: GenuineTMx86
+cpu family	: 5
+model		: 4
+model name	: Transmeta Crusoe(tm) Model 120
+stepping	: 2
+cpu MHz		: 398.626347
+cache size	: 0 KB
+fdiv_bug	: no
+hlt_bug		: no
+sep_bug		: no
+f00f_bug	: no
+coma_bug	: no
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 1
+wp		: yes
+flags		: fpu vme de pse tsc msr cx8 sep cmov mmx
+bogomips	: 732.36
+

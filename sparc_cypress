@@ -1,0 +1,22 @@
+cpu             : Cypress/ROSS CY7C601
+fpu             : Texas Instruments TMS390-C602A
+promlib         : Version 2 Revision 2
+prom            : 2.2
+type            : sun4c
+ncpus probed    : 1
+ncpus active    : 1
+BogoMips        : 39.83
+vacsize         : 65536 bytes
+vachwflush      : yes
+vaclinesize     : 32 bytes
+mmuctxs         : 16
+mmupsegs        : 256
+kernelpsegs     : 119
+kfreepsegs      : 0
+usedpsegs       : 85
+ufreepsegs      : 17
+user_taken      : 87
+max_taken       : 148
+context         : 8764 flushes
+segment         : 89448 flushes
+page            : 1348331 flushes

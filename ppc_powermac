@@ -1,0 +1,6 @@
+processor       : 0
+cpu       : 604e
+clock     : 200MHz
+revision  : 2.4
+bogomips  : 399.77
+machine   : PowerMac

@@ -1,0 +1,12 @@
+cpu                     : MIPS
+cpu model               : R4600 V1.0
+system type             : SGI Indy
+BogoMIPS                : 99.94
+byteorder               : big endian
+unaligned accesses      : 0
+wait instruction        : yes
+microsecond timers      : no
+extra interrupt vector  : no
+hardware watchpoint     : no
+VCED exceptions         : not available
+VCEI exceptions         : not available

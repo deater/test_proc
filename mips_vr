@@ -1,0 +1,12 @@
+cpu                     : MIPS
+cpu model               : NEC Vr41xx V5.2
+system type             : Vr41xx-based Vadem Clio
+BogoMIPS                : 46.08
+byteorder               : little endian
+unaligned accesses      : 0
+wait instruction        : no
+microsecond timers      : no
+extra interrupt vector  : no
+hardware watchpoint     : yes
+VCED exceptions         : not available
+VCEI exceptions         : not available

@@ -1,0 +1,38 @@
+
+From root@neko.binary9.net Fri Sep 18 23:42:42 1998
+Date: Fri, 18 Sep 1998 23:00:10 -0400
+From: root@neko.binary9.net
+To: alex.buell@tahallah.demon.co.uk
+Subject: cpuinfo
+
+processor	: 0
+cpu family	: 6
+model		: Pentium II (Klamath)
+vendor_id	: GenuineIntel
+stepping	: 4
+fdiv_bug	: no
+hlt_bug		: no
+sep_bug		: no
+f00f_bug	: no
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 2
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov mmx
+bogomips	: 233.47
+
+processor	: 1
+cpu family	: 6
+model		: Pentium II (Klamath)
+vendor_id	: GenuineIntel
+stepping	: 4
+fdiv_bug	: no
+hlt_bug		: no
+sep_bug		: no
+f00f_bug	: no
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 2
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov mmx
+bogomips	: 233.47
