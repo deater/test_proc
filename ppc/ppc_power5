@@ -1,0 +1,5 @@
+processor       : 0
+cpu             : POWER5
+revision        : 1.0
+timebase        : XXXXX
+machine         : CHRP

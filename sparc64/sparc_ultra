@@ -1,0 +1,10 @@
+cpu             : TI UltraSparc IIi
+fpu             : UltraSparc IIi integrated FPU
+promlib         : Version 3 Revision 25
+prom            : 3.25.1
+type            : sun4u
+ncpus probed    : 1
+ncpus active    : 1
+Cpu0Bogo        : 719.25
+Cpu0ClkTck      : 0000000015752a00
+MMU Type        : Spitfire

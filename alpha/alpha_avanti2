@@ -1,0 +1,19 @@
+cpu                     : Alpha
+cpu model               : EV45
+cpu variation           : 7
+cpu revision            : 0
+cpu serial number       :
+system type             : Avanti
+system variation        : 0
+system revision         : 0
+system serial number    :
+cycle frequency [Hz]    : 232018561
+timer frequency [Hz]    : 1024.00
+page size [bytes]       : 8192
+phys. address bits      : 34
+max. addr. space #      : 63
+BogoMIPS                : 458.36
+kernel unaligned acc    : 32 (pc=fffffc0000478394,va=fffffc0002dbf176)
+user unaligned acc      : 0 (pc=0,va=0)
+platform string         : AlphaStation 255/233
+cpus detected           : 1

@@ -1,0 +1,11 @@
+cpu             : 7455, altivec supported
+clock           : 667MHz
+revision        : 2.1 (pvr 8001 0201)
+bogomips        : 665.19
+machine         : PowerBook3,4
+motherboard     : PowerBook3,4 MacRISC2 MacRISC Power Macintosh
+detected as     : 73 (PowerBook Titanium III)
+pmac flags      : 00000003
+L2 cache        : 256K unified
+memory          : 512MB
+pmac-generation : NewWorld
