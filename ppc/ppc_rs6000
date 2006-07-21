@@ -1,0 +1,5 @@
+cpu             : Power3 (630+)
+clock           : 375MHz
+revision        : 1.4 (pvr 0041 0104)
+bogomips        : 748.74
+machine         : CHRP IBM,7044-270

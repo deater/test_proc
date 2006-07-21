@@ -1,0 +1,6 @@
+CPU:            68060
+MMU:            68060
+FPU:            68060
+Clocking:       49.5MHz
+BogoMips:       99.12
+Calibration:    495616 loops

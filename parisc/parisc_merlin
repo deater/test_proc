@@ -1,0 +1,17 @@
+processor       : 0
+cpu family      : PA-RISC 1.1e
+cpu             : PA7300LC (PCX-L2)
+cpu MHz         : 132.000000
+model           : 9000/778/B132L
+model name      : Merlin L2 132 (9000/778/B132L)
+hversion        : 0x00005010
+sversion        : 0x00000481
+I-cache         : 64 KB
+D-cache         : 64 KB (WB, 0-way associative)
+ITLB entries    : 96
+DTLB entries    : 96 - shared with ITLB
+BTLB fixed      : max. 16384 pages, pagesize=4096 (64MB)
+BTLB fix-entr.  : 0 instruction, 0 data (8 combined)
+BTLB var-entr.  : 0 instruction, 0 data (0 combined)
+bogomips        : 87.85
+software id     : 2000153985
