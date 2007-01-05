@@ -1,0 +1,10 @@
+From Thomas Cort:
+
+I wrote a library for reading cpuinfo files and found your data very
+useful, thanks for putting it online. I have collected a lot of
+cpuinfo files too. You can find them in CVS here:
+http://cvs.savannah.nongnu.org/viewcvs/proccpuinfo/tests/data/?root=proccpuinfo
+There are files there from more obscure architectures (frv, m32r, and
+others). If you are looking for even more data, genflags (
+http://dev.gentoo.org/~robbat2/genflags/ ) has over 1000 files.
+

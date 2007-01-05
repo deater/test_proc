@@ -1,0 +1,82 @@
+cpu             : UltraSparc T1 (Niagara)
+fpu             : UltraSparc T1 integrated FPU
+prom            : OBP 4.23.4 2006/08/04 20:45
+type            : sun4v
+ncpus probed    : 24
+ncpus active    : 24
+D$ parity tl1   : 0
+I$ parity tl1   : 0
+Cpu0Bogo        : 2001.25
+Cpu0ClkTck      : 000000003b9aca00
+Cpu1Bogo        : 2000.03
+Cpu1ClkTck      : 000000003b9aca00
+Cpu2Bogo        : 2000.01
+Cpu2ClkTck      : 000000003b9aca00
+Cpu3Bogo        : 2000.01
+Cpu3ClkTck      : 000000003b9aca00
+Cpu4Bogo        : 2000.02
+Cpu4ClkTck      : 000000003b9aca00
+Cpu5Bogo        : 2000.02
+Cpu5ClkTck      : 000000003b9aca00
+Cpu6Bogo        : 2000.02
+Cpu6ClkTck      : 000000003b9aca00
+Cpu7Bogo        : 2000.01
+Cpu7ClkTck      : 000000003b9aca00
+Cpu8Bogo        : 2000.03
+Cpu8ClkTck      : 000000003b9aca00
+Cpu9Bogo        : 2000.02
+Cpu9ClkTck      : 000000003b9aca00
+Cpu10Bogo       : 2000.01
+Cpu10ClkTck     : 000000003b9aca00
+Cpu11Bogo       : 2000.01
+Cpu11ClkTck     : 000000003b9aca00
+Cpu12Bogo       : 2000.02
+Cpu12ClkTck     : 000000003b9aca00
+Cpu13Bogo       : 2000.01
+Cpu13ClkTck     : 000000003b9aca00
+Cpu14Bogo       : 2000.01
+Cpu14ClkTck     : 000000003b9aca00
+Cpu15Bogo       : 2000.01
+Cpu15ClkTck     : 000000003b9aca00
+Cpu16Bogo       : 2000.03
+Cpu16ClkTck     : 000000003b9aca00
+Cpu17Bogo       : 2000.02
+Cpu17ClkTck     : 000000003b9aca00
+Cpu18Bogo       : 2000.02
+Cpu18ClkTck     : 000000003b9aca00
+Cpu19Bogo       : 2000.01
+Cpu19ClkTck     : 000000003b9aca00
+Cpu20Bogo       : 2000.02
+Cpu20ClkTck     : 000000003b9aca00
+Cpu21Bogo       : 2000.02
+Cpu21ClkTck     : 000000003b9aca00
+Cpu22Bogo       : 2000.01
+Cpu22ClkTck     : 000000003b9aca00
+Cpu23Bogo       : 2000.02
+Cpu23ClkTck     : 000000003b9aca00
+MMU Type        : Hypervisor (sun4v)
+State:
+CPU0:           online
+CPU1:           online
+CPU2:           online
+CPU3:           online
+CPU4:           online
+CPU5:           online
+CPU6:           online
+CPU7:           online
+CPU8:           online
+CPU9:           online
+CPU10:          online
+CPU11:          online
+CPU12:          online
+CPU13:          online
+CPU14:          online
+CPU15:          online
+CPU16:          online
+CPU17:          online
+CPU18:          online
+CPU19:          online
+CPU20:          online
+CPU21:          online
+CPU22:          online
+CPU23:          online

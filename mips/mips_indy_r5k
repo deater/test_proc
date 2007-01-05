@@ -1,0 +1,12 @@
+system type             : SGI Indy
+processor               : 0
+cpu model               : R5000 V1.0  FPU V1.0
+BogoMIPS                : 179.81
+byteorder               : big endian
+wait instruction        : yes
+microsecond timers      : yes
+tlb_entries             : 48
+extra interrupt vector  : no
+hardware watchpoint     : no
+VCED exceptions         : not available
+VCEI exceptions         : not available
