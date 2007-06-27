@@ -1,0 +1,6 @@
+cpu             : VAX
+cpu type        : KA43
+cpu sid         : 0x0b000006
+cpu sidex       : 0x04010002
+page size       : 4096
+BogoMIPS        : 10.08
