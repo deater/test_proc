@@ -1,0 +1,6 @@
+processor       : 0
+cpu family      : AVR32B revision 1
+cpu type        : AP7000 revision 0
+i-cache         : 16K (4 ways x 128 sets x 32)
+d-cache         : 16K (4 ways x 128 sets x 32)
+bogomips        : 260.38
