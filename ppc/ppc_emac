@@ -1,0 +1,12 @@
+cpu : 7455, altivec supported
+clock : 999MHz
+revision : 3.3 (pvr 8001 0303)
+bogomips : 992.87
+machine : PowerMac4,4
+motherboard : PowerMac4,4 MacRISC3 Power Macintosh
+board revision : 00000001
+detected as : 80 (eMac)
+pmac flags : 00000001
+L2 cache : 256K unified
+memory : 384MB
+pmac-generation : NewWorld

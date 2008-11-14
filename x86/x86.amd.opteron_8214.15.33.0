@@ -1,0 +1,38 @@
+processor : 0
+vendor_id : AuthenticAMD
+cpu family : 15
+model : 33
+model name : Dual-Core AMD Opteron(tm) Processor 8214
+stepping : 0
+cpu MHz : 2207.149
+cache size : 1024 KB
+fdiv_bug : no
+hlt_bug : no
+f00f_bug : no
+coma_bug : no
+fpu : yes
+fpu_exception : yes
+cpuid level : 1
+wp : yes
+flags : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx mmxext lm 3dnowext 3dnow pni
+bogomips : 4424.10
+
+processor : 1
+vendor_id : AuthenticAMD
+cpu family : 15
+model : 33
+model name : Dual-Core AMD Opteron(tm) Processor 8214
+stepping : 0
+cpu MHz : 2207.149
+cache size : 1024 KB
+fdiv_bug : no
+hlt_bug : no
+f00f_bug : no
+coma_bug : no
+fpu : yes
+fpu_exception : yes
+cpuid level : 1
+wp : yes
+flags : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx mmxext lm 3dnowext 3dnow pni
+bogomips : 4420.78
+Reply With Quote

@@ -1,0 +1,19 @@
+processor : 0 
+vendor_id : GenuineIntel 
+cpu family : 6 
+model : 8 
+model name : Celeron (Coppermine) 
+stepping : 10 
+cpu MHz : 900.00 
+cache size : 128 KB 
+fdiv_bug : no 
+hlt_bug : no 
+f00f_bug : no 
+coma_bug : no 
+fpu : yes 
+fpu_exception : yes 
+cpuid level : 2 
+wp : yes 
+flags : fpu vme de pse tsc msr pae mce cx8 sep mtrr pge mca cmov pat pse36 mmx fxsr sse up 
+bogomips : 1801.81 
+clflush size : 32

@@ -1,0 +1,4 @@
+vendor_id : IBM/S390
+# processors : 1
+bogomips per cpu: 2090.59
+processor 0: version = FF, identification = 03667F, machine = 2084

@@ -1,3 +1,10 @@
+These are some /proc/cpuinfo files I've collected over the years
+in order to make debugging linux_logo easier.
+
+Some of the machines I've owned or had accounts on, the rest 
+are from postings on the net.
+
+
 From Thomas Cort:
 
 I wrote a library for reading cpuinfo files and found your data very
@@ -7,4 +14,14 @@ http://cvs.savannah.nongnu.org/viewcvs/proccpuinfo/tests/data/?root=proccpuinfo
 There are files there from more obscure architectures (frv, m32r, and
 others). If you are looking for even more data, genflags (
 http://dev.gentoo.org/~robbat2/genflags/ ) has over 1000 files.
+
+
+Changes:
+
+14 November 2008:
++ re-organized x86 and x86_64 directory.  Re-named to have
+  family/model/stepping to avoid duplicates.
+  
+  
+---- Vince Weaver <vince _at_ deater.net>
 

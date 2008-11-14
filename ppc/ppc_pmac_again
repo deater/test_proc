@@ -1,0 +1,13 @@
+cpu : 740/750
+temperature : 46-50 C (uncalibrated)
+clock : 300MHz
+revision : 2.2 (pvr 0008 0202)
+bogomips : 601.29
+machine : Power Macintosh
+motherboard : AAPL,PowerMac G3 MacRISC
+detected as : 49 (PowerMac G3 (Silk))
+pmac flags : 00000000
+L2 cache : 1024K unified pipelined-syncro-burst
+memory : 768MB
+l2cr override : 0x68fff740
+pmac-generation : OldWorld

@@ -1,0 +1,19 @@
+processor       : 0
+vendor_id       : AuthenticAMD
+cpu family      : 6
+model           : 10
+model name      : AMD Athlon XP-M
+stepping        : 0
+cpu MHz         : 2641.765
+cache size      : 512 KB
+fdiv_bug        : no
+hlt_bug         : no
+f00f_bug        : no
+coma_bug        : no
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 1
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 sep mtrr pge mca cmov pat pse36 mmx fxsr sse pni syscall mp mmxext 3dnowext 3dnow
+bogomips        : 5226.49
+

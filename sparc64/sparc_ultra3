@@ -1,0 +1,19 @@
+cpu             : TI UltraSparc III (Cheetah)
+fpu             : UltraSparc III integrated FPU
+prom            : OBP 4.22.34 2007/07/23 13:01
+type            : sun4u
+ncpus probed    : 4
+ncpus active    : 4
+D$ parity tl1   : 0
+I$ parity tl1   : 0
+Cpu0ClkTck      : 000000002cb41780
+Cpu1ClkTck      : 000000002cb41780
+Cpu2ClkTck      : 000000002cb41780
+Cpu3ClkTck      : 000000002cb41780
+MMU Type        : Cheetah
+State:
+CPU0:           online
+CPU1:           online
+CPU2:           online
+CPU3:           online
+

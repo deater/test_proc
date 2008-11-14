@@ -1,0 +1,71 @@
+processor  : 0
+vendor     : GenuineIntel
+arch       : IA-64
+family     : 32
+model      : 0
+revision   : 7
+archrev    : 0
+features   : branchlong, 16-byte atomic ops
+cpu number : 0
+cpu regs   : 4
+cpu MHz    : 1395.532332
+itc MHz    : 399.221928
+BogoMIPS   : 2835.34
+siblings   : 2
+physical id: 0
+core id    : 0
+thread id  : 0
+
+processor  : 1
+vendor     : GenuineIntel
+arch       : IA-64
+family     : 32
+model      : 0
+revision   : 7
+archrev    : 0
+features   : branchlong, 16-byte atomic ops
+cpu number : 0
+cpu regs   : 4
+cpu MHz    : 1395.532332
+itc MHz    : 399.221928
+BogoMIPS   : 2826.96
+siblings   : 2
+physical id: 0
+core id    : 1
+thread id  : 0
+
+processor  : 2
+vendor     : GenuineIntel
+arch       : IA-64
+family     : 32
+model      : 0
+revision   : 7
+archrev    : 0
+features   : branchlong, 16-byte atomic ops
+cpu number : 0
+cpu regs   : 4
+cpu MHz    : 1395.532332
+itc MHz    : 399.221928
+BogoMIPS   : 2826.96
+siblings   : 2
+physical id: 1
+core id    : 0
+thread id  : 0
+
+processor  : 3
+vendor     : GenuineIntel
+arch       : IA-64
+family     : 32
+model      : 0
+revision   : 7
+archrev    : 0
+features   : branchlong, 16-byte atomic ops
+cpu number : 0
+cpu regs   : 4
+cpu MHz    : 1395.532332
+itc MHz    : 399.221928
+BogoMIPS   : 2826.96
+siblings   : 2
+physical id: 1
+core id    : 1
+thread id  : 0

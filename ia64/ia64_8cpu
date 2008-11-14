@@ -1,0 +1,109 @@
+processor : 0
+vendor : GenuineIntel
+arch : IA-64
+family : Itanium 2
+model : 1
+revision : 5
+archrev : 0
+features : branchlong
+cpu number : 0
+cpu regs : 4
+cpu MHz : 1499.857500
+itc MHz : 1499.857500
+BogoMIPS : 2239.75
+
+processor : 1
+vendor : GenuineIntel
+arch : IA-64
+family : Itanium 2
+model : 1
+revision : 5
+archrev : 0
+features : branchlong
+cpu number : 0
+cpu regs : 4
+cpu MHz : 1499.857500
+itc MHz : 1499.857500
+BogoMIPS : 2239.75
+
+processor : 2
+vendor : GenuineIntel
+arch : IA-64
+family : Itanium 2
+model : 1
+revision : 5
+archrev : 0
+features : branchlong
+cpu number : 0
+cpu regs : 4
+cpu MHz : 1499.857500
+itc MHz : 1499.857500
+BogoMIPS : 2239.75
+
+processor : 3
+vendor : GenuineIntel
+arch : IA-64
+family : Itanium 2
+model : 1
+revision : 5
+archrev : 0
+features : branchlong
+cpu number : 0
+cpu regs : 4
+cpu MHz : 1499.857500
+itc MHz : 1499.857500
+BogoMIPS : 2239.75
+processor : 4
+vendor : GenuineIntel
+arch : IA-64
+family : Itanium 2
+model : 1
+revision : 5
+archrev : 0
+features : branchlong
+cpu number : 0
+cpu regs : 4
+cpu MHz : 1499.857500
+itc MHz : 1499.857500
+BogoMIPS : 2239.75
+processor : 5
+vendor : GenuineIntel
+arch : IA-64
+family : Itanium 2
+model : 1
+revision : 5
+archrev : 0
+features : branchlong
+cpu number : 0
+cpu regs : 4
+cpu MHz : 1499.857500
+itc MHz : 1499.857500
+BogoMIPS : 2239.75
+
+processor : 6
+vendor : GenuineIntel
+arch : IA-64
+family : Itanium 2
+model : 1
+revision : 5
+archrev : 0
+features : branchlong
+cpu number : 0
+cpu regs : 4
+cpu MHz : 1499.857500
+itc MHz : 1499.857500
+BogoMIPS : 2239.75
+
+processor : 7
+vendor : GenuineIntel
+arch : IA-64
+family : Itanium 2
+model : 1
+revision : 5
+archrev : 0
+features : branchlong
+cpu number : 0
+cpu regs : 4
+cpu MHz : 1499.857500
+itc MHz : 1499.857500
+BogoMIPS : 2239.75

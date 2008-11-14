@@ -1,0 +1,16 @@
+processor       : 0
+cpu family      : M32700
+cache size      : I-8KB/D-8KB
+bogomips        : 239.20
+Machine         : M32700UT Evaluation board
+CPU clock       : 300.00MHz
+Bus clock       : 75.00MHz
+
+processor       : 1
+cpu family      : M32700
+cache size      : I-8KB/D-8KB
+bogomips        : 239.20
+Machine         : M32700UT Evaluation board
+CPU clock       : 300.00MHz
+Bus clock       : 75.00MHz
+

@@ -1,0 +1,12 @@
+cpu                     : MIPS
+cpu model               : R5432 V3.0
+system type             : TiVo UMA P0 board
+BogoMIPS                : 161.38
+byteorder               : big endian
+unaligned accesses      : 148314
+wait instruction        : no
+microsecond timers      : yes
+extra interrupt vector  : no
+hardware watchpoint     : yes
+spurious interrupts     : 88
+cycle counter frequency : 81003906

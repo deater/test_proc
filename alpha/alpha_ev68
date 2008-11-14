@@ -1,0 +1,25 @@
+cpu                     : Alpha
+cpu model               : EV68AL
+cpu variation           : 7
+cpu revision            : 0
+cpu serial number       :
+system type             : Tsunami
+system variation        : Clipper
+system revision         : 0
+system serial number    :
+cycle frequency [Hz]    : 833333333
+timer frequency [Hz]    : 1024.00
+page size [bytes]       : 8192
+phys. address bits      : 44
+max. addr. space #      : 255
+BogoMIPS                : 1653.28
+kernel unaligned acc    : 0 (pc=0,va=0)
+user unaligned acc      : 416753 (pc=2000006de8c,va=200002d0074)
+platform string         : API CS20D 833 MHz
+cpus detected           : 2
+cpus active             : 2
+cpu active mask         : 0000000000000003
+L1 Icache               : 64K, 2-way, 64b line
+L1 Dcache               : 64K, 2-way, 64b line
+L2 cache                : 4096K, 1-way, 64b line
+L3 cache                : n/a

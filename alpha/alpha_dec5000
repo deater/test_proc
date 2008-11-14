@@ -1,0 +1,19 @@
+cpu                     : Alpha
+cpu model               : EV56
+cpu variation           : 7
+cpu revision            : 0
+cpu serial number       :
+system type             : Rawhide
+system variation        : 0
+system revision         : 0
+system serial number    : NI8250679N
+cycle frequency [Hz]    : 400000000
+timer frequency [Hz]    : 1200.00
+page size [bytes]       : 8192
+phys. address bits      : 40
+max. addr. space #      : 127
+BogoMIPS                : 795.88
+kernel unaligned acc    : 0 (pc=0,va=0)
+user unaligned acc      : 0 (pc=0,va=0)
+platform string         : DIGITAL Server 5000 Model 5300 6400A 5/400 4MB
+cpus detected           : 1

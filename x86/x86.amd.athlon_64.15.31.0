@@ -1,0 +1,19 @@
+processor       : 0
+vendor_id       : AuthenticAMD
+cpu family      : 15
+model           : 31
+model name      : AMD Athlon(tm) 64 Processor 3200+
+stepping        : 0
+cpu MHz         : 1000.000
+cache size      : 512 KB
+fdiv_bug        : no
+hlt_bug         : no
+f00f_bug        : no
+coma_bug        : no
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 1
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx mmxext fxsr_opt lm 3dnowext 3dnow up lahf_lm ts fid vid ttp
+bogomips        : 2010.91
+clflush size    : 64

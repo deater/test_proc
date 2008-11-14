@@ -1,0 +1,16 @@
+CPU-Series:     fr400
+CPU-Core:       fr405, gr0-31, BE, CCCR
+CPU:            mb93405
+MMU:            Prot
+FP-Media:       fr0-31, Media
+System:         mb93091-cb70, mb93090-mb00
+PM-Controls:    cmode=0xd31f, cm=0x3, p0=0x3, suspend=0x9
+PM-Status:      cmode=3, cm=0, p0=0
+Clock-In:       50.00 MHz
+Clock-Core:     300.00 MHz
+Clock-SDRAM:    100.00 MHz
+Clock-CBus:     100.00 MHz
+Clock-Res:      50.00 MHz
+Clock-Ext:      50.00 MHz
+Clock-DSU:      25.00 MHz
+BogoMips:       300.00
