@@ -1,0 +1,15 @@
+processor       : 0
+cpu             : 740/750
+temperature     : 52 C (uncalibrated)
+clock           : 400.000000MHz
+revision        : 2.2 (pvr 0008 0202)
+bogomips        : 49.79
+timebase        : 24967326
+platform        : PowerMac
+model           : PowerMac2,1
+machine         : PowerMac2,1
+motherboard     : PowerMac2,1 MacRISC2 MacRISC Power Macintosh
+detected as     : 66 (iMac FireWire)
+pmac flags      : 00000014
+L2 cache        : 512K unified
+pmac-generation : NewWorld

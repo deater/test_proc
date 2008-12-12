@@ -1,0 +1,12 @@
+system type             : SGI Octane
+processor               : 0
+cpu model               : R12000 V2.3  FPU V0.0
+BogoMIPS                : 448.51
+wait instruction        : no
+microsecond timers      : yes
+tlb_entries             : 64
+extra interrupt vector  : no
+hardware watchpoint     : yes
+ASEs implemented        :
+VCED exceptions         : not available
+VCEI exceptions         : not available
