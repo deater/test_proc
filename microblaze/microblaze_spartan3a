@@ -1,0 +1,10 @@
+CPU-Family:     MicroBlaze
+FPGA-Arch:      spartan3a
+CPU-Ver:        7.10.d
+CPU-MHz:        66.666667
+BogoMips:       32.76
+HW-Div:         no
+HW-Shift:       no
+Icache:        2kB
+Dcache:        2kB
+HW-Debug:       yes

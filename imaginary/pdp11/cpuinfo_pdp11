@@ -1,0 +1,4 @@
+cpu             : PDP-11
+cpu type        : PDP-11/40
+page size       : 4096
+BogoMIPS        : 0.38

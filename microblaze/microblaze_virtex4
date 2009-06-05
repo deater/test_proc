@@ -1,0 +1,9 @@
+FPGA-Arch:      virtex4
+CPU-Ver:        4.00.a
+CPU-MHz:   66.666667
+BogoMips:       32.87
+HW-Div:         yes
+HW-Shift:       yes
+Icache:        16kB
+Dcache:       16kB
+HW-Debug:       yes

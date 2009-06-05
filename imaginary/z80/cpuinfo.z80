@@ -1,0 +1,5 @@
+cpu             : Z80
+cpu type        : Z80A
+cpu MHz		: 4MHz
+BogoMIPS        : 0.013
+
