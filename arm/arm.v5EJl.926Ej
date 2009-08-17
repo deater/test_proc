@@ -1,0 +1,25 @@
+Processor       : ARM926EJ-Sid(wb) rev 3 (v5EJl)
+BogoMIPS        : 95.84
+Features        : swp half thumb fastmult 
+CPU implementer : 0x41
+CPU architecture: ?(8)
+CPU variant     : 0x0
+CPU part        : 0x926
+CPU revision    : 3
+Cache type      : undefined 14
+Cache clean     : undefined 14
+Cache lockdown  : undefined 14
+Cache unified   : Harvard
+I size          : 16384
+I assoc         : 4
+I line length   : 32
+I sets          : 128
+D size          : 8192
+D assoc         : 4
+D line length   : 32
+D sets          : 64
+
+Hardware        : OMAP5912 OSK/OMAP1610
+Revision        : 0000
+Serial          : 0000000000000000
+

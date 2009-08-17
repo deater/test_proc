@@ -1,0 +1,15 @@
+processor       : 0
+vendor_id       : Analog Devices
+cpu family      : 0x27de000
+model name      : ADSP-BF548 525(MHz CCLK) 131(MHz SCLK)
+stepping        : 1
+cpu MHz         : 525.000/131.250000
+bogomips        : 1046.52
+Calibration     : 523264000 loops
+cache size      : 16 KB(L1 icache) 32 KB(L1 dcache-wt) 0 KB(L2 cache)
+dbank-A/B       : cache/cache
+icache setup    : 4 Sub-banks/4 Ways, 32 Lines/Way
+dcache setup    : 2 Super-banks/4 Sub-banks/2 Ways, 64 Lines/Way
+board name      : ADSP-BF548-EZKIT
+board memory    : 65536 kB (0x00000000 -> 0x04000000)
+kernel memory   : 63480 kB (0x00001000 -> 0x03dff000)

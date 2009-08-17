@@ -1,0 +1,19 @@
+processor       : 0
+vendor_id       : CentaurHauls
+cpu family      : 6
+model           : 13
+model name      : VIA C7-M Processor 1200MHz
+stepping        : 0
+cpu MHz         : 600.024
+cache size      : 128 KB
+fdiv_bug        : no
+hlt_bug         : no
+f00f_bug        : no
+coma_bug        : no
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 1
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge cmov pat clfl ush acpi mmx fxsr sse sse2 tm nx up pni est tm2 xtpr rng rng_en ace ace_en ace2 ace2 _en phe phe_en pmm pmm_en
+bogomips        : 1201.11
+clflush size    : 64
