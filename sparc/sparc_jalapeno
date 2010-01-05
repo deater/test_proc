@@ -1,0 +1,15 @@
+cpu             : TI UltraSparc IIIi (Jalapeno)
+fpu             : UltraSparc IIIi integrated FPU
+pmu             : ultra3i
+prom            : OBP 4.11.4 2003/07/23 08:04
+type            : sun4u
+ncpus probed    : 2
+ncpus active    : 2
+D$ parity tl1   : 0
+I$ parity tl1   : 0
+Cpu0ClkTck      : 000000003bb94e80
+Cpu1ClkTck      : 000000003bb94e80
+MMU Type        : Cheetah+
+State:
+CPU0:           online
+CPU1:           online
