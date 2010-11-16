@@ -1,0 +1,82 @@
+processor	: 0
+cpu		: POWER6 (architected), altivec supported
+clock		: 4204.000000MHz
+revision	: 3.2 (pvr 003e 0302)
+
+processor	: 1
+cpu		: POWER6 (architected), altivec supported
+clock		: 4204.000000MHz
+revision	: 3.2 (pvr 003e 0302)
+
+processor	: 2
+cpu		: POWER6 (architected), altivec supported
+clock		: 4204.000000MHz
+revision	: 3.2 (pvr 003e 0302)
+
+processor	: 3
+cpu		: POWER6 (architected), altivec supported
+clock		: 4204.000000MHz
+revision	: 3.2 (pvr 003e 0302)
+
+processor	: 4
+cpu		: POWER6 (architected), altivec supported
+clock		: 4204.000000MHz
+revision	: 3.2 (pvr 003e 0302)
+
+processor	: 5
+cpu		: POWER6 (architected), altivec supported
+clock		: 4204.000000MHz
+revision	: 3.2 (pvr 003e 0302)
+
+processor	: 6
+cpu		: POWER6 (architected), altivec supported
+clock		: 4204.000000MHz
+revision	: 3.2 (pvr 003e 0302)
+
+processor	: 7
+cpu		: POWER6 (architected), altivec supported
+clock		: 4204.000000MHz
+revision	: 3.2 (pvr 003e 0302)
+
+processor	: 8
+cpu		: POWER6 (architected), altivec supported
+clock		: 4204.000000MHz
+revision	: 3.2 (pvr 003e 0302)
+
+processor	: 9
+cpu		: POWER6 (architected), altivec supported
+clock		: 4204.000000MHz
+revision	: 3.2 (pvr 003e 0302)
+
+processor	: 10
+cpu		: POWER6 (architected), altivec supported
+clock		: 4204.000000MHz
+revision	: 3.2 (pvr 003e 0302)
+
+processor	: 11
+cpu		: POWER6 (architected), altivec supported
+clock		: 4204.000000MHz
+revision	: 3.2 (pvr 003e 0302)
+
+processor	: 12
+cpu		: POWER6 (architected), altivec supported
+clock		: 4204.000000MHz
+revision	: 3.2 (pvr 003e 0302)
+
+processor	: 13
+cpu		: POWER6 (architected), altivec supported
+clock		: 4204.000000MHz
+revision	: 3.2 (pvr 003e 0302)
+
+processor	: 14
+cpu		: POWER6 (architected), altivec supported
+clock		: 4204.000000MHz
+revision	: 3.2 (pvr 003e 0302)
+
+processor	: 15
+cpu		: POWER6 (architected), altivec supported
+clock		: 4204.000000MHz
+revision	: 3.2 (pvr 003e 0302)
+
+timebase	: 512000000
+machine		: CHRP IBM,8204-E8A

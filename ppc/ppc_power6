@@ -1,0 +1,44 @@
+processor	: 0
+cpu		: POWER6 (raw), altivec supported
+clock		: 4005.000000MHz
+revision	: 3.1 (pvr 003e 0301)
+
+processor	: 1
+cpu		: POWER6 (raw), altivec supported
+clock		: 4005.000000MHz
+revision	: 3.1 (pvr 003e 0301)
+
+processor	: 2
+cpu		: POWER6 (raw), altivec supported
+clock		: 4005.000000MHz
+revision	: 3.1 (pvr 003e 0301)
+
+processor	: 3
+cpu		: POWER6 (raw), altivec supported
+clock		: 4005.000000MHz
+revision	: 3.1 (pvr 003e 0301)
+
+processor	: 4
+cpu		: POWER6 (raw), altivec supported
+clock		: 4005.000000MHz
+revision	: 3.1 (pvr 003e 0301)
+
+processor	: 5
+cpu		: POWER6 (raw), altivec supported
+clock		: 4005.000000MHz
+revision	: 3.1 (pvr 003e 0301)
+
+processor	: 6
+cpu		: POWER6 (raw), altivec supported
+clock		: 4005.000000MHz
+revision	: 3.1 (pvr 003e 0301)
+
+processor	: 7
+cpu		: POWER6 (raw), altivec supported
+clock		: 4005.000000MHz
+revision	: 3.1 (pvr 003e 0301)
+
+timebase	: 512000000
+platform	: pSeries
+model		: IBM,7998-61X
+machine		: CHRP IBM,7998-61X

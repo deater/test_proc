@@ -1,0 +1,14 @@
+system type             : TI AR7 (TNETV1050)
+processor               : 0
+cpu model               : MIPS 4KEc V4.8
+BogoMIPS                : 149.91
+wait instruction        : yes
+microsecond timers      : yes
+tlb_entries             : 16
+extra interrupt vector  : yes
+hardware watchpoint     : yes
+ASEs implemented        :
+shadow register sets    : 1
+core                    : 0
+VCED exceptions         : not available
+VCEI exceptions         : not available

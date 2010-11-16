@@ -1,0 +1,15 @@
+
+processor       : 0
+cpu family      : PA-RISC 2.0
+cpu             : PA8600 (PCX-W+)
+cpu MHz         : 552.000000
+model           : 9000/785/J6000
+model name      : Duet W+
+hversion        : 0x00005d40
+sversion        : 0x00000491
+I-cache         : 512 KB
+D-cache         : 1024 KB (WB, direct mapped)
+ITLB entries    : 160
+DTLB entries    : 160 - shared with ITLB
+bogomips        : 1101.00
+software id     : 2011956991
