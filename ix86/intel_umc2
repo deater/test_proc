@@ -1,0 +1,15 @@
+processor 	: 0
+cpu family 	: 4
+model 		: U5S
+vendor_id 	: UMC UMC UMC
+stepping 	: 3
+fdiv_bug 	: no
+hlt_bug 	: no
+sep_bug 	: no
+f00f_bug 	: no
+fpu 		: no
+fpu_exception 	: no
+cpuid level 	: 1
+wp 		: yes
+flags 		:
+bogomips 	: 26.42

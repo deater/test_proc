@@ -1,0 +1,13 @@
+processor       : 0
+cpu             : 486
+model           : SX
+vendor_id       : UMC UMC UMC
+stepping        : 3
+fdiv_bug        : no
+hlt_bug         : no
+fpu             : no
+fpu_exception   : no
+cpuid           : yes
+wp              : yes
+flags           :
+bogomips        : 19.61

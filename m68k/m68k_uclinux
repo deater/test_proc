@@ -1,0 +1,6 @@
+CPU:            68EZ328
+MMU:            none
+FPU:            none
+Clocking:       11.4MHz
+BogoMips:       1.42
+Calibration:    713600 loops

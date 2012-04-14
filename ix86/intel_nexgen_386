@@ -1,0 +1,16 @@
+processor       : 0
+vendor_id       : NexGenDriven
+cpu family      : 3
+model           : 0
+model name      : 386
+stepping        : unknown
+fdiv_bug        : no
+hlt_bug         : no
+f00f_bug        : no
+coma_bug        : no
+fpu             : no
+fpu_exception   : no
+cpuid level     : -1
+wp              : no
+flags           :
+bogomips        : 74.13
