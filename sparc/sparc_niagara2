@@ -1,139 +1,107 @@
-cpu             : UltraSparc T2 (Niagara2)
-fpu             : UltraSparc T2 integrated FPU
-pmu             : niagara2
-prom            : OBP 4.29.1 2008/10/29 14:16
-type            : sun4v
-ncpus probed    : 64
-ncpus active    : 64
-D$ parity tl1   : 0
-I$ parity tl1   : 0
-Cpu0ClkTck      : 00000000457656f0
-Cpu1ClkTck      : 00000000457656f0
-Cpu2ClkTck      : 00000000457656f0
-Cpu3ClkTck      : 00000000457656f0
-Cpu4ClkTck      : 00000000457656f0
-Cpu5ClkTck      : 00000000457656f0
-Cpu6ClkTck      : 00000000457656f0
-Cpu7ClkTck      : 00000000457656f0
-Cpu8ClkTck      : 00000000457656f0
-Cpu9ClkTck      : 00000000457656f0
-Cpu10ClkTck     : 00000000457656f0
-Cpu11ClkTck     : 00000000457656f0
-Cpu12ClkTck     : 00000000457656f0
-Cpu13ClkTck     : 00000000457656f0
-Cpu14ClkTck     : 00000000457656f0
-Cpu15ClkTck     : 00000000457656f0
-Cpu16ClkTck     : 00000000457656f0
-Cpu17ClkTck     : 00000000457656f0
-Cpu18ClkTck     : 00000000457656f0
-Cpu19ClkTck     : 00000000457656f0
-Cpu20ClkTck     : 00000000457656f0
-Cpu21ClkTck     : 00000000457656f0
-Cpu22ClkTck     : 00000000457656f0
-Cpu23ClkTck     : 00000000457656f0
-Cpu24ClkTck     : 00000000457656f0
-Cpu25ClkTck     : 00000000457656f0
-Cpu26ClkTck     : 00000000457656f0
-Cpu27ClkTck     : 00000000457656f0
-Cpu28ClkTck     : 00000000457656f0
-Cpu29ClkTck     : 00000000457656f0
-Cpu30ClkTck     : 00000000457656f0
-Cpu31ClkTck     : 00000000457656f0
-Cpu64ClkTck     : 00000000457656f0
-Cpu65ClkTck     : 00000000457656f0
-Cpu66ClkTck     : 00000000457656f0
-Cpu67ClkTck     : 00000000457656f0
-Cpu68ClkTck     : 00000000457656f0
-Cpu69ClkTck     : 00000000457656f0
-Cpu70ClkTck     : 00000000457656f0
-Cpu71ClkTck     : 00000000457656f0
-Cpu72ClkTck     : 00000000457656f0
-Cpu73ClkTck     : 00000000457656f0
-Cpu74ClkTck     : 00000000457656f0
-Cpu75ClkTck     : 00000000457656f0
-Cpu76ClkTck     : 00000000457656f0
-Cpu77ClkTck     : 00000000457656f0
-Cpu78ClkTck     : 00000000457656f0
-Cpu79ClkTck     : 00000000457656f0
-Cpu80ClkTck     : 00000000457656f0
-Cpu81ClkTck     : 00000000457656f0
-Cpu82ClkTck     : 00000000457656f0
-Cpu83ClkTck     : 00000000457656f0
-Cpu84ClkTck     : 00000000457656f0
-Cpu85ClkTck     : 00000000457656f0
-Cpu86ClkTck     : 00000000457656f0
-Cpu87ClkTck     : 00000000457656f0
-Cpu88ClkTck     : 00000000457656f0
-Cpu89ClkTck     : 00000000457656f0
-Cpu90ClkTck     : 00000000457656f0
-Cpu91ClkTck     : 00000000457656f0
-Cpu92ClkTck     : 00000000457656f0
-Cpu93ClkTck     : 00000000457656f0
-Cpu94ClkTck     : 00000000457656f0
-Cpu95ClkTck     : 00000000457656f0
-MMU Type        : Hypervisor (sun4v)
+cpu		: UltraSparc T2 (Niagara2)
+fpu		: UltraSparc T2 integrated FPU
+pmu		: niagara2
+prom		: OBP 4.28.0 2008/01/22 21:10
+type		: sun4v
+ncpus probed	: 48
+ncpus active	: 48
+D$ parity tl1	: 0
+I$ parity tl1	: 0
+Cpu0ClkTck	: 00000000457646c0
+Cpu1ClkTck	: 00000000457646c0
+Cpu2ClkTck	: 00000000457646c0
+Cpu3ClkTck	: 00000000457646c0
+Cpu4ClkTck	: 00000000457646c0
+Cpu5ClkTck	: 00000000457646c0
+Cpu6ClkTck	: 00000000457646c0
+Cpu7ClkTck	: 00000000457646c0
+Cpu8ClkTck	: 00000000457646c0
+Cpu9ClkTck	: 00000000457646c0
+Cpu10ClkTck	: 00000000457646c0
+Cpu11ClkTck	: 00000000457646c0
+Cpu12ClkTck	: 00000000457646c0
+Cpu13ClkTck	: 00000000457646c0
+Cpu14ClkTck	: 00000000457646c0
+Cpu15ClkTck	: 00000000457646c0
+Cpu16ClkTck	: 00000000457646c0
+Cpu17ClkTck	: 00000000457646c0
+Cpu18ClkTck	: 00000000457646c0
+Cpu19ClkTck	: 00000000457646c0
+Cpu20ClkTck	: 00000000457646c0
+Cpu21ClkTck	: 00000000457646c0
+Cpu22ClkTck	: 00000000457646c0
+Cpu23ClkTck	: 00000000457646c0
+Cpu24ClkTck	: 00000000457646c0
+Cpu25ClkTck	: 00000000457646c0
+Cpu26ClkTck	: 00000000457646c0
+Cpu27ClkTck	: 00000000457646c0
+Cpu28ClkTck	: 00000000457646c0
+Cpu29ClkTck	: 00000000457646c0
+Cpu30ClkTck	: 00000000457646c0
+Cpu31ClkTck	: 00000000457646c0
+Cpu32ClkTck	: 00000000457646c0
+Cpu33ClkTck	: 00000000457646c0
+Cpu34ClkTck	: 00000000457646c0
+Cpu35ClkTck	: 00000000457646c0
+Cpu36ClkTck	: 00000000457646c0
+Cpu37ClkTck	: 00000000457646c0
+Cpu38ClkTck	: 00000000457646c0
+Cpu39ClkTck	: 00000000457646c0
+Cpu40ClkTck	: 00000000457646c0
+Cpu41ClkTck	: 00000000457646c0
+Cpu42ClkTck	: 00000000457646c0
+Cpu43ClkTck	: 00000000457646c0
+Cpu44ClkTck	: 00000000457646c0
+Cpu45ClkTck	: 00000000457646c0
+Cpu46ClkTck	: 00000000457646c0
+Cpu47ClkTck	: 00000000457646c0
+MMU Type	: Hypervisor (sun4v)
 State:
-CPU0:           online
-CPU1:           online
-CPU2:           online
-CPU3:           online
-CPU4:           online
-CPU5:           online
-CPU6:           online
-CPU7:           online
-CPU8:           online
-CPU9:           online
-CPU10:          online
-CPU11:          online
-CPU12:          online
-CPU13:          online
-CPU14:          online
-CPU15:          online
-CPU16:          online
-CPU17:          online
-CPU18:          online
-CPU19:          online
-CPU20:          online
-CPU21:          online
-CPU22:          online
-CPU23:          online
-CPU24:          online
-CPU25:          online
-CPU26:          online
-CPU27:          online
-CPU28:          online
-CPU29:          online
-CPU30:          online
-CPU31:          online
-CPU64:          online
-CPU65:          online
-CPU66:          online
-CPU67:          online
-CPU68:          online
-CPU69:          online
-CPU70:          online
-CPU71:          online
-CPU72:          online
-CPU73:          online
-CPU74:          online
-CPU75:          online
-CPU76:          online
-CPU77:          online
-CPU78:          online
-CPU79:          online
-CPU80:          online
-CPU81:          online
-CPU82:          online
-CPU83:          online
-CPU84:          online
-CPU85:          online
-CPU86:          online
-CPU87:          online
-CPU88:          online
-CPU89:          online
-CPU90:          online
-CPU91:          online
-CPU92:          online
-CPU93:          online
-CPU94:          online
-CPU95:          online
+CPU0:		online
+CPU1:		online
+CPU2:		online
+CPU3:		online
+CPU4:		online
+CPU5:		online
+CPU6:		online
+CPU7:		online
+CPU8:		online
+CPU9:		online
+CPU10:		online
+CPU11:		online
+CPU12:		online
+CPU13:		online
+CPU14:		online
+CPU15:		online
+CPU16:		online
+CPU17:		online
+CPU18:		online
+CPU19:		online
+CPU20:		online
+CPU21:		online
+CPU22:		online
+CPU23:		online
+CPU24:		online
+CPU25:		online
+CPU26:		online
+CPU27:		online
+CPU28:		online
+CPU29:		online
+CPU30:		online
+CPU31:		online
+CPU32:		online
+CPU33:		online
+CPU34:		online
+CPU35:		online
+CPU36:		online
+CPU37:		online
+CPU38:		online
+CPU39:		online
+CPU40:		online
+CPU41:		online
+CPU42:		online
+CPU43:		online
+CPU44:		online
+CPU45:		online
+CPU46:		online
+CPU47:		online
