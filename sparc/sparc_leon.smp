@@ -1,0 +1,16 @@
+cpu             : LEON
+fpu             : GRFPU
+promlib         : Version 0 Revision 0
+prom            : 0.0
+type            : leon
+ncpus probed    : 2
+ncpus active    : 2
+Cpu0Bogo        : 70.04
+Cpu1Bogo        : 70.86
+MMU type        : LEON
+contexts        : 256
+nocache total   : 5242880
+nocache used    : 118528
+State:
+CPU0            : online
+CPU1            : online

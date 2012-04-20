@@ -1,0 +1,52 @@
+processor       : 0
+cpu             : e500mc
+clock           : 1499.985000MHz
+revision        : 2.0 (pvr 8023 0020)
+bogomips        : 99.99
+
+processor       : 1
+cpu             : e500mc
+clock           : 1499.985000MHz
+revision        : 2.0 (pvr 8023 0020)
+bogomips        : 99.99
+
+processor       : 2
+cpu             : e500mc
+clock           : 1499.985000MHz
+revision        : 2.0 (pvr 8023 0020)
+bogomips        : 99.99
+
+processor       : 3
+cpu             : e500mc
+clock           : 1499.985000MHz
+revision        : 2.0 (pvr 8023 0020)
+bogomips        : 99.99
+
+processor       : 4
+cpu             : e500mc
+clock           : 1499.985000MHz
+revision        : 2.0 (pvr 8023 0020)
+bogomips        : 99.99
+
+processor       : 5
+cpu             : e500mc
+clock           : 1499.985000MHz
+revision        : 2.0 (pvr 8023 0020)
+bogomips        : 99.99
+
+cpu             : e500mc
+clock           : 1499.985000MHz
+revision        : 2.0 (pvr 8023 0020)
+bogomips        : 99.99
+
+processor       : 7
+cpu             : e500mc
+clock           : 1499.985000MHz
+revision        : 2.0 (pvr 8023 0020)
+bogomips        : 99.99
+
+total bogomips  : 799.99
+timebase        : 49999500
+platform        : P4080 DS
+model           : fsl,P4080DS
+Memory          : 4096 MB
