@@ -1,0 +1,13 @@
+cpu             : Fujitsu TurboSparc MB86907
+fpu             : No FPU
+promlib         : Version 3 Revision 2
+prom            : 2.29
+type            : sun4m
+ncpus probed    : 1
+ncpus active    : 1
+CPU0Bogo        : 166.91
+CPU0ClkTck      : 0
+MMU type        : Fujitsu TurboSparc
+contexts        : 256
+nocache total   : 2252800
+nocache used    : 231168

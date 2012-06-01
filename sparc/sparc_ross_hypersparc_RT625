@@ -1,0 +1,20 @@
+cpu             : ROSS HyperSparc RT625 or RT626
+fpu             : ROSS HyperSparc combined IU/FPU
+promlib         : Version 3 Revision 2
+prom            : 2.25
+type            : sun4m
+ncpus probed    : 4
+ncpus active    : 4
+Cpu0Bogo        : 124.92
+Cpu1Bogo        : 125.18
+Cpu2Bogo        : 109.31
+Cpu3Bogo        : 109.31
+MMU type        : ROSS HyperSparc
+contexts        : 4096
+nocache total   : 5242880
+nocache used    : 238592
+State:
+CPU0            : online
+CPU1            : online
+CPU2            : online
+CPU3            : online
