@@ -1,0 +1,20 @@
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 5
+model		: 8
+model name	: Mobile Pentium MMX
+stepping	: 1
+cpu MHz		: 200.452
+cache size	: 0 KB
+fdiv_bug	: no
+hlt_bug		: no
+f00f_bug	: yes
+coma_bug	: no
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 1
+wp		: yes
+flags		: fpu vme de pse tsc msr mce cx8 mmx
+bogomips	: 401.85
+clflush size	: 32
+power management:
