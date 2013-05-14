@@ -1,0 +1,9 @@
+The model field was originally 4 bits (so couldn't go higher than 15).
+
+Intel added an extended field, but older versions of Linux would not
+handle this.
+
+So, for example, a model 23 core-2 would be reported as model 7 
+(a pIII).
+
+

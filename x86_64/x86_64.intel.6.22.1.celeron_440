@@ -1,0 +1,17 @@
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 22
+model name	: Intel(R) Celeron(R) CPU          440  @ 2.00GHz
+stepping	: 1
+cpu MHz		: 2000.162
+cache size	: 512 KB
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 2
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss tm pbe syscall nx lm constant_tsc up pebs bts rep_good pni monitor ds_cpl tm2 ssse3 cx16 xtpr lahf_lm
+bogomips	: 4003.40
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 36 bits physical, 48 bits virtual

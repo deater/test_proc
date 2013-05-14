@@ -1,0 +1,24 @@
+processor       : 0
+vendor_id       : GenuineIntel
+cpu family      : 6
+model           : 29
+model name      : Intel(R) Xeon(R) CPU           E7450  @ 2.40GHz
+stepping        : 1
+cpu MHz         : 2400.158
+cache size      : 12288 KB
+physical id     : 0
+siblings        : 1
+core id         : 0
+cpu cores       : 1
+apicid          : 0
+initial apicid  : 0
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 11
+wp              : yes
+flags           : fpu de tsc msr pae mce cx8 apic sep mtrr mca cmov pat clflush acpi mmx fxsr sse sse2 ss ht syscall lm constant_tsc up rep_good aperfmperf pni est ssse3 cx16 sse4_1 hypervisor lahf_lm
+bogomips        : 4802.39
+clflush size    : 64
+cache_alignment : 64
+address sizes   : 40 bits physical, 48 bits virtual
+power management:
