@@ -1,0 +1,24 @@
+processor       : 0
+vendor_id       : GenuineIntel
+cpu family      : 11
+model           : 1
+model name      : 0b/01
+stepping        : 0
+cpu MHz         : 1000.000
+cache size      : 512 KB
+physical id     : 0
+siblings        : 208
+core id         : 51
+cpu cores       : 52
+apicid          : 204
+initial apicid  : 204
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 4
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic mtrr mca pat fxsr ht sys
+bogomips        : 1994.98
+clflush size    : 64
+cache_alignment : 64
+address sizes   : 40 bits physical, 48 bits virtual
+power management:       
