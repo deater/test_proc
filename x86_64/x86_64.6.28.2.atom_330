@@ -1,0 +1,23 @@
+processor 	: 0
+vendor_id 	: GenuineIntel
+cpu family 	: 6
+model 		: 28
+model name 	: Intel(R) Atom(TM) CPU 330 @ 1.60GHz
+stepping 	: 2
+cpu MHz 	: 1596.156
+cache size 	: 512 KB
+physical id 	: 0
+siblings 	: 4
+core id 	: 0
+cpu cores 	: 2
+fdiv_bug 	: no
+hlt_bug 	: no
+f00f_bug 	: no
+coma_bug 	: no
+fpu 		: yes
+fpu_exception 	: yes
+cpuid level 	: 10
+wp 		: yes
+flags 		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe nx lm constant_tsc arch_perfmon pebs bts pni monitor ds_cpl tm2 ssse3 cx16 xtpr lahf_lm
+bogomips 	: 3195.77
+clflush size 	: 64 
