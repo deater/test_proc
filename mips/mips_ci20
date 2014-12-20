@@ -1,0 +1,36 @@
+system type : CI20
+processor : 0
+cpu model : Ingenic Xburst V4.15 FPU V0.0
+BogoMIPS : 1196.85
+wait instruction : yes
+microsecond timers : no
+tlb_entries : 32
+extra interrupt vector : yes
+hardware watchpoint : yes, count: 1, address/irw mask: [0x0fff]
+microMIPS : no
+ASEs implemented : mxu
+shadow register sets : 1
+kscratch registers : 0
+core : 0
+VCED exceptions : not available
+VCEI exceptions : not available
+Hardware : ci20
+Serial : 9a591231 12810803 f4f90000 8a61aa4f
+
+processor : 1
+cpu model : Ingenic Xburst V4.15 FPU V0.0
+BogoMIPS : 1196.85
+wait instruction : yes
+microsecond timers : no
+tlb_entries : 32
+extra interrupt vector : yes
+hardware watchpoint : yes, count: 1, address/irw mask: [0x0fff]
+microMIPS : no
+ASEs implemented : mxu
+shadow register sets : 1
+kscratch registers : 0
+core : 0
+VCED exceptions : not available
+VCEI exceptions : not available
+Hardware : ci20
+Serial : 9a591231 12810803 f4f90000 8a61aa4f
