@@ -1,0 +1,15 @@
+hart	  : 0
+isa	  : rv64imafdc
+mmu	  : sv48
+
+hart	  : 1
+isa	  : rv64imafdc
+mmu	  : sv48
+
+hart	  : 2
+isa	  : rv64imafdc
+mmu	  : sv48
+
+hart	  : 3
+isa	  : rv64imafdc
+mmu	  : sv48
