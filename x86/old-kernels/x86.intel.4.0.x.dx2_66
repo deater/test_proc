@@ -1,0 +1,18 @@
+cpu             : 486
+model           : DX/2
+mask            : E
+vid             : GenuineIntel
+fdiv_bug        : no
+math            : yes
+hlt             : yes
+wp              : yes
+Integrated NPU  : yes
+Enhanced VM86   : yes
+IO Breakpoints  : no
+4MB Pages       : no
+TS Counters     : no
+Pentium MSR     : no
+Mach. Ch. Exep. : no
+CMPXCHGB8B      : no
+BogoMips        : 33.55
+

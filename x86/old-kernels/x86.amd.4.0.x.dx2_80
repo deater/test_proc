@@ -1,0 +1,17 @@
+cpu             : 486
+model           : 0
+mask            : Unknown
+vid             : Unknown
+fdiv_bug        : no
+math            : yes
+hlt             : yes
+wp              : yes
+Integrated NPU  : no
+Enhanced VM86   : no
+IO Breakpoints  : no
+4MB Pages       : no
+TS Counters     : no
+Pentium MSR     : no
+Mach. Ch. Exep. : no
+CMPXCHGB8B      : no
+BogoMips        : 39.93
