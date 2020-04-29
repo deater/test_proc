@@ -1,0 +1,57 @@
+processor       : 0
+vendor_id       : GenuineIntel
+cpu family      : 6
+model           : 14
+model name      : Genuine Intel(R) CPU           T2130  @ 1.86GHz
+stepping        : 12
+cpu MHz         : 1867.000
+cache size      : 1024 KB
+physical id     : 0
+siblings        : 2
+core id         : 0
+cpu cores       : 2
+apicid          : 0
+initial apicid  : 0
+fdiv_bug        : no
+hlt_bug         : no
+f00f_bug        : no
+coma_bug        : no
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 10
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep \
+mtrr pge mca cmov pat clflush dts acpi mmx fxsr sse sse2 ss ht \
+tm pbe nx constant_tsc arch_perfmon bts pni monitor est tm2 xtpr pdcm
+bogomips        : 3724.06
+clflush size    : 64
+power management:
+
+processor       : 1
+vendor_id       : GenuineIntel
+cpu family      : 6
+model           : 14
+model name      : Genuine Intel(R) CPU           T2130  @ 1.86GHz
+stepping        : 12
+cpu MHz         : 1867.000
+cache size      : 1024 KB
+physical id     : 0
+siblings        : 2
+core id         : 1
+cpu cores       : 2
+apicid          : 1
+initial apicid  : 1
+fdiv_bug        : no
+hlt_bug         : no
+f00f_bug        : no
+coma_bug        : no
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 10
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep \
+mtrr pge mca cmov pat clflush dts acpi mmx fxsr sse sse2 ss ht \
+tm pbe nx constant_tsc arch_perfmon bts pni monitor est tm2 xtpr pdcm
+bogomips        : 3723.84
+clflush size    : 64
+power management:
