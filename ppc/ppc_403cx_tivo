@@ -1,0 +1,6 @@
+processor       : 0
+cpu             : IBM 403GCX
+clock           : 54MHz
+revision        : 20.1
+bogomips        : 53.86
+machine         : Teleworld Customer Device

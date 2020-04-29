@@ -1,0 +1,13 @@
+processor       : 0
+cpu             : 7450, altivec supported
+clock           : 700MHz
+revision        : 2.1 (pvr 8000 0201)
+bogomips        : 697.95
+machine         : PowerMac4,2
+motherboard     : PowerMac4,2 MacRISC2 MacRISC Power Macintosh
+board revision  : 00000002
+detected as     : 258 (Flat panel iMac)
+pmac flags      : 00000001
+L2 cache        : 256K unified
+memory          : 256MB
+pmac-generation : NewWorld

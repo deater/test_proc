@@ -1,0 +1,18 @@
+processor       : 0
+vendor_id       : AuthenticAMD
+cpu family      : 5
+model           : 13
+model name      : AMD-K6(tm)-III Processor
+stepping        : 4
+cpu MHz         : 501.233
+cache size      : 128 KB
+fdiv_bug        : no
+hlt_bug         : no
+f00f_bug        : no
+coma_bug        : no
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 1
+wp              : yes
+flags           : fpu vme de pse tsc msr mce cx8 pge mmx pni syscall 3dnowext 3dnow k6_mtrr
+bogomips        : 987.13 

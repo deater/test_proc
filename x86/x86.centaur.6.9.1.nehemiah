@@ -1,0 +1,18 @@
+processor : 0
+vendor_id : CentaurHauls
+cpu family : 6
+model : 9
+model name : VIA Nehemiah
+stepping : 1
+cpu MHz : 999.952
+cache size : 64 KB
+fdiv_bug : no
+hlt_bug : no
+f00f_bug : no
+coma_bug : no
+fpu : yes
+fpu_exception : yes
+cpuid level : 1
+wp : yes
+flags : fpu de tsc msr mtrr pge cmov mmx fxsr sse
+bogomips : 1974.27

@@ -1,0 +1,13 @@
+processor : 0
+cpu : 7400, altivec supported
+temperature : 11-13 C (uncalibrated)
+clock : 400MHz
+revision : 2.9 (pvr 000c 0209)
+bogomips : 796.67
+machine : PowerMac3,1
+motherboard : PowerMac3,1 MacRISC Power Macintosh
+detected as : 65 (PowerMac G4 AGP Graphics)
+pmac flags : 00000004
+L2 cache : 1024K unified
+memory : 320MB
+pmac-generation : NewWorld

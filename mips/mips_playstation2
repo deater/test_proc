@@ -1,0 +1,12 @@
+cpu                     : MIPS
+cpu model               : R5900 V3.1
+system type             : EE PS2
+BogoMIPS                : 392.40
+byteorder               : little endian
+unaligned accesses      : 0
+wait instruction        : no
+microsecond timers      : no
+extra interrupt vector  : yes
+hardware watchpoint     : no
+VCED exceptions         : not available
+VCEI exceptions         : not available 

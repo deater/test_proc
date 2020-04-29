@@ -1,0 +1,12 @@
+processor   : 0
+cpu      : 7447A, altivec supported
+clock      : 1249MHz
+revision   : 1.2 (pvr 8003 0102)
+bogomips   : 1245.18
+machine      : PowerMac10,1
+motherboard   : PowerMac10,1 MacRISC3 Power Macintosh
+detected as   : 287 (Unknown Intrepid-based)
+pmac flags   : 00000000
+L2 cache   : 512K unified
+memory      : 256MB
+pmac-generation   : NewWorld

@@ -1,0 +1,17 @@
+processor       : 0
+vendor_id       : AuthenticAMD
+cpu family      : 4
+model           : 14
+model name      : Am5x86-WT
+stepping        : 4
+fdiv_bug        : no
+hlt_bug         : no
+sep_bug         : no
+f00f_bug        : no
+coma_bug        : no
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 1
+wp              : yes
+flags           : fpu
+bogomips        : 66.15

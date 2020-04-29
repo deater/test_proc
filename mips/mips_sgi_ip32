@@ -1,0 +1,13 @@
+system type             : SGI IP32
+processor               : 0
+cpu model               : R5000 V2.1  FPU V1.0
+BogoMIPS                : 178.68
+wait instruction        : yes
+microsecond timers      : yes
+tlb_entries             : 48
+extra interrupt vector  : no
+hardware watchpoint     : no
+VCED exceptions         : not available
+VCEI exceptions         : not available
+
+

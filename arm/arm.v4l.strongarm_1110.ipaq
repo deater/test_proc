@@ -1,0 +1,13 @@
+
+Processor       : StrongARM-1110 rev 9 (v4l)
+BogoMIPS        : 137.21
+Features        : swp half 26bit fastmult
+CPU implementor : 0x69
+CPU architecture: 4
+CPU variant     : 0x0
+CPU part        : 0xb11
+CPU revision    : 9
+
+Hardware        : HP iPAQ H3800
+Revision        : 0000
+Serial          : 0000000000000000
