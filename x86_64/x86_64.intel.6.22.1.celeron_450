@@ -1,0 +1,22 @@
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 22
+model name	: Intel(R) Celeron(R) CPU          450  @ 2.20GHz
+stepping	: 1
+cpu MHz		: 2194.591
+cache size	: 512 KB
+fdiv_bug	: no
+hlt_bug		: no
+f00f_bug	: no
+coma_bug	: no
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 10
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss tm pbe nx lm constant_tsc up arch_perfmon pebs bts aperfmperf pni dtes64 monitor ds_cpl tm2 ssse3 cx16 xtpr pdcm lahf_lm dts
+bogomips	: 4389.18
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 36 bits physical, 48 bits virtual
+power management:

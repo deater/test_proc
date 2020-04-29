@@ -1,0 +1,20 @@
+cat /proc/cpuinfo
+processor       : 0
+vendor_id       : GenuineIntel
+cpu family      : 6
+model           : 22
+model name      : Intel(R) Celeron(R) CPU          220  @ 1.20GHz
+stepping        : 1
+cpu MHz         : 1200.076
+cache size      : 512 KB
+fdiv_bug        : no
+hlt_bug         : no
+f00f_bug        : no
+coma_bug        : no
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 10
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss tm pbe nx lm constant_tsc arch_perfmon pebs bts pni monitor ds_cpl tm2 ssse3 cx16 xtpr lahf_lm
+bogomips        : 2401.22
+clflush size    : 64 
