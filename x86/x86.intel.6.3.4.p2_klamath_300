@@ -1,0 +1,41 @@
+processor : 0
+vendor_id : GenuineIntel
+cpu family : 6
+model : 3
+model name : Pentium II (Klamath)
+stepping : 4
+cpu MHz : 300.670
+cache size : 512 KB
+Physical processor ID : 0
+Number of siblings : 1
+fdiv_bug : no
+hlt_bug : no
+f00f_bug : no
+coma_bug : no
+fpu : yes
+fpu_exception : yes
+cpuid level : 2
+wp : yes
+flags : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov mmx
+bogomips : 595.25
+
+processor : 1
+vendor_id : GenuineIntel
+cpu family : 6
+model : 3
+model name : Pentium II (Klamath)
+stepping : 4
+cpu MHz : 300.670
+cache size : 512 KB
+Physical processor ID : 0
+Number of siblings : 1
+fdiv_bug : no
+hlt_bug : no
+f00f_bug : no
+coma_bug : no
+fpu : yes
+fpu_exception : yes
+cpuid level : 2
+wp : yes
+flags : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov mmx
+bogomips : 600.80 

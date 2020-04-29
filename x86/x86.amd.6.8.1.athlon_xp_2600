@@ -1,0 +1,18 @@
+processor : 0
+vendor_id : AuthenticAMD
+cpu family : 6
+model : 8
+model name : AMD Athlon(tm) XP 2600+
+stepping : 1
+cpu MHz : 2080.084
+cache size : 256 KB
+fdiv_bug : no
+hlt_bug : no
+f00f_bug : no
+coma_bug : no
+fpu : yes
+fpu_exception : yes
+cpuid level : 1
+wp : yes
+flags : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 mmx fxsr sse syscall mmxext 3dnowext 3dnow
+bogomips : 4141.87 
