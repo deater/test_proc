@@ -1,0 +1,17 @@
+processor       : 0
+vendor_id       : AuthenticAMD
+cpu family      : 5
+model           : 0
+model name      : 05/00
+stepping        : 1
+cpu MHz         : 100.247
+fdiv_bug        : no
+hlt_bug         : no
+f00f_bug        : no
+coma_bug        : no
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 1
+wp              : yes
+flags           : fpu vme de pse tsc msr mce cx8 pge up
+bogomips        : 200.94
