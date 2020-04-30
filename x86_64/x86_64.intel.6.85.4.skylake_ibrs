@@ -1,0 +1,26 @@
+processor       : 0
+vendor_id       : GenuineIntel
+cpu family      : 6
+model           : 85
+model name      : Intel Xeon Processor (Skylake, IBRS)
+stepping        : 4
+microcode       : 0x1
+cpu MHz         : 2099.998
+cache size      : 16384 KB
+physical id     : 0
+siblings        : 4
+core id         : 0
+cpu cores       : 4
+apicid          : 0
+initial apicid  : 0
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 13
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse$
+bugs            : cpu_meltdown spectre_v1 spectre_v2
+bogomips        : 4199.99
+clflush size    : 64
+cache_alignment : 64
+address sizes   : 40 bits physical, 48 bits virtual
+power management:
