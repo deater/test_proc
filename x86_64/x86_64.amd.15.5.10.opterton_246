@@ -1,0 +1,39 @@
+processor       : 0
+vendor_id       : AuthenticAMD
+cpu family      : 15
+model           : 5
+model name      : AMD Opteron(tm) Processor 246
+stepping        : 10
+cpu MHz         : 1991.615
+cache size      : 1024 KB
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 1
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx mmxext lm 3dnowext 3dnow
+bogomips        : 3990.44
+TLB size        : 1024 4K pages
+clflush size    : 64
+cache_alignment : 64
+address sizes   : 40 bits physical, 48 bits virtual
+power management: ts fid vid ttp
+
+processor       : 1
+vendor_id       : AuthenticAMD
+cpu family      : 15
+model           : 5
+model name      : AMD Opteron(tm) Processor 246
+stepping        : 10
+cpu MHz         : 1991.615
+cache size      : 1024 KB
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 1
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx mmxext lm 3dnowext 3dnow
+bogomips        : 3982.63
+TLB size        : 1024 4K pages
+clflush size    : 64
+cache_alignment : 64
+address sizes   : 40 bits physical, 48 bits virtual
+power management: ts fid vid ttp

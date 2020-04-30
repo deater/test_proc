@@ -1,0 +1,22 @@
+processor	: 0
+vendor_id	: AuthenticAMD
+cpu family	: 15
+model		: 28
+model name	: AMD Sempron(tm) Processor 2800+
+stepping	: 0
+cpu MHz		: 1608.370
+cache size	: 256 KB
+fdiv_bug	: no
+hlt_bug		: no
+f00f_bug	: no
+coma_bug	: no
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 1
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx mmxext fxsr_opt lm 3dnowext 3dnow up lahf_lm
+bogomips	: 3216.74
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 40 bits physical, 48 bits virtual
+power management: ts ttp

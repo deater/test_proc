@@ -1,0 +1,107 @@
+processor : 0
+vendor_id : AuthenticAMD
+cpu family : 16
+model : 4
+model name : AMD Phenom(tm) II X4 B50 Processor
+stepping : 2
+cpu MHz : 800.000
+cache size : 512 KB
+physical id : 0
+siblings : 4
+core id : 0
+cpu cores : 4
+apicid : 0
+initial apicid : 0
+fdiv_bug : no
+hlt_bug : no
+f00f_bug : no
+coma_bug : no
+fpu : yes
+fpu_exception : yes
+cpuid level : 5
+wp : yes
+flags : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm 3dnowext 3dnow constant_tsc nonstop_tsc pni monitor cx16 lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt
+bogomips : 6200.42
+clflush size : 64
+power management: ts ttp tm stc 100mhzsteps hwpstate
+
+processor : 1
+vendor_id : AuthenticAMD
+cpu family : 16
+model : 4
+model name : AMD Phenom(tm) II X4 B50 Processor
+stepping : 2
+cpu MHz : 800.000
+cache size : 512 KB
+physical id : 0
+siblings : 4
+core id : 1
+cpu cores : 4
+apicid : 1
+initial apicid : 1
+fdiv_bug : no
+hlt_bug : no
+f00f_bug : no
+coma_bug : no
+fpu : yes
+fpu_exception : yes
+cpuid level : 5
+wp : yes
+flags : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm 3dnowext 3dnow constant_tsc nonstop_tsc pni monitor cx16 lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt
+bogomips : 6200.39
+clflush size : 64
+power management: ts ttp tm stc 100mhzsteps hwpstate
+
+processor : 2
+vendor_id : AuthenticAMD
+cpu family : 16
+model : 4
+model name : AMD Phenom(tm) II X4 B50 Processor
+stepping : 2
+cpu MHz : 800.000
+cache size : 512 KB
+physical id : 0
+siblings : 4
+core id : 3
+cpu cores : 4
+apicid : 3
+initial apicid : 3
+fdiv_bug : no
+hlt_bug : no
+f00f_bug : no
+coma_bug : no
+fpu : yes
+fpu_exception : yes
+cpuid level : 5
+wp : yes
+flags : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm 3dnowext 3dnow constant_tsc nonstop_tsc pni monitor cx16 lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt
+bogomips : 6200.39
+clflush size : 64
+power management: ts ttp tm stc 100mhzsteps hwpstate
+
+processor : 3
+vendor_id : AuthenticAMD
+cpu family : 16
+model : 4
+model name : AMD Phenom(tm) II X4 B50 Processor
+stepping : 2
+cpu MHz : 800.000
+cache size : 512 KB
+physical id : 0
+siblings : 4
+core id : 2
+cpu cores : 4
+apicid : 2
+initial apicid : 2
+fdiv_bug : no
+hlt_bug : no
+f00f_bug : no
+coma_bug : no
+fpu : yes
+fpu_exception : yes
+cpuid level : 5
+wp : yes
+flags : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm 3dnowext 3dnow constant_tsc nonstop_tsc pni monitor cx16 lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt
+bogomips : 6200.39
+clflush size : 64
+power management: ts ttp tm stc 100mhzsteps hwpstate

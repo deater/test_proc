@@ -1,0 +1,22 @@
+processor       : 0
+vendor_id       : GenuineIntel
+cpu family      : 6
+model           : 42
+model name      : Intel(R) Pentium(R) CPU G620 @ 2.60GHz
+stepping        : 7
+microcode       : 0x1b
+cpu MHz         : 2594.000
+cache size      : 3072 KB
+physical id     : 0
+siblings        : 2
+core id         : 0
+cpu cores       : 2
+apicid          : 0
+initial apicid  : 0
+fdiv_bug        : no
+hlt_bug         : no
+f00f_bug        : no
+coma_bug        : no
+fpu             : yes
+fpu_exception   : yes
+cpuid lev

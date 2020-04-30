@@ -1,0 +1,11 @@
+machine         : hdk7105
+processor       : 0
+cpu family      : sh4
+cpu type        : STx7105
+cut             : 4.x
+cpu flags       : fpu icbi synco fpchg
+cache type      : split (harvard)
+icache size     : 32KiB (2-way)
+dcache size     : 32KiB (2-way)
+address sizes   : 32 bits physical
+bogomips        : 444.41
