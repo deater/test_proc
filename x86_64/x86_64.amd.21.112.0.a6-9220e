@@ -1,0 +1,55 @@
+processor       : 0
+vendor_id       : AuthenticAMD
+cpu family      : 21
+model           : 112
+model name      : AMD A6-9220e RADEON R4, 5 COMPUTE CORES 2C+3G
+stepping        : 0
+cpu MHz         : 1597.000
+cache size      : 0 KB
+physical id     : 0
+siblings        : 2
+core id         : 0
+cpu cores       : 1
+apicid          : 0
+initial apicid  : 0
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 13
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge
+mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext
+fxsr_opt pdpe1gb rdtscp lm pni cx16 lahf_lm cmp_legacy svm extapic
+cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs sse5 skinit
+wdt lwp fma4 tce nodeid_msr tbm perfctr_core perfctr_nb
+clflush size    : 64
+cache_alignment : 64
+address sizes   : 48 bits physical, 48 bits virtual
+power management: ts ttp tm 100mhzsteps hwpstate cpb eff_freq_ro
+
+processor       : 1
+vendor_id       : AuthenticAMD
+cpu family      : 21
+model           : 112
+model name      : AMD A6-9220e RADEON R4, 5 COMPUTE CORES 2C+3G
+stepping        : 0
+cpu MHz         : 1597.000
+cache size      : 0 KB
+physical id     : 0
+siblings        : 2
+core id         : 0
+cpu cores       : 1
+apicid          : 1
+initial apicid  : 1
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 13
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge
+mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext
+fxsr_opt pdpe1gb rdtscp lm pni cx16 lahf_lm cmp_legacy svm extapic
+cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs sse5 skinit
+wdt lwp fma4 tce nodeid_msr tbm perfctr_core perfctr_nb
+clflush size    : 64
+cache_alignment : 64
+address sizes   : 48 bits physical, 48 bits virtual
+power management: ts ttp tm 100mhzsteps hwpstate cpb eff_freq_ro
