@@ -1,0 +1,8 @@
+vendor_id       : AuthenticAMD
+cpu family      : 22
+model           : 48
+model name      : AMD GX-412TC SOC
+stepping        : 1
+microcode       : 0x7030105
+cpu MHz         : 600.000
+cache size      : 2048 KB
