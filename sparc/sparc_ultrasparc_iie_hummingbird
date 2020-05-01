@@ -1,0 +1,11 @@
+cpu : TI UltraSparc IIe (Hummingbird)
+fpu : UltraSparc IIe integrated FPU
+prom : OBP 4.6.5 2002/06/03 16:49
+type : sun4u
+ncpus probed : 1
+ncpus active : 1
+D$ parity tl1 : 0
+I$ parity tl1 : 0
+Cpu0Bogo : 11.12
+Cpu0ClkTck : 0000000020c85580
+MMU Type : Spitfire 

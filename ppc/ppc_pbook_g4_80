@@ -1,0 +1,15 @@
+processor : 0
+cpu : 7455, altivec supported
+clock : 867.000000MHz
+revision : 0.2 (pvr 8001 0302)
+bogomips : 66.56
+
+total bogomips : 66.56
+timebase : 33331323
+platform : PowerMac
+machine : PowerBook3,5
+motherboard : PowerBook3,5 MacRISC2 MacRISC Power Macintosh
+detected as : 80 (PowerBook Titanium IV)
+pmac flags : 0000001b
+L2 cache : 256K unified
+pmac-generation : NewWorld 

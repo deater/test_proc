@@ -1,0 +1,24 @@
+processor : 39
+vendor_id : GenuineIntel
+cpu family : 6
+model : 62
+model name : Intel(R) Xeon(R) CPU E5-2690 v2 @ 3.00GHz
+stepping : 4
+cpu MHz : 1200.000
+cache size : 25600 KB
+physical id : 1
+siblings : 20
+core id : 12
+cpu cores : 10
+apicid : 57
+initial apicid : 57
+fpu : yes
+fpu_exception : yes
+cpuid level : 13
+wp : yes
+flags : 略
+bogomips : 5984.71
+clflush size : 64
+cache_alignment : 64
+address sizes : 46 bits physical, 48 bits virtual
+power management: 

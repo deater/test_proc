@@ -1,0 +1,11 @@
+machine : SolutionEngine
+processor : 0
+cpu family : sh2aeb
+cpu type : SH7206
+cut : 0.0
+cpu flags : dsp op32
+cache type : split (harvard)
+icache size : 8KiB (4-way)
+dcache size : 8KiB (4-way)
+address sizes : 32 bits physical
+bogomips : 199.99 

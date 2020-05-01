@@ -1,0 +1,26 @@
+processor : 3
+vendor_id : AuthenticAMD
+cpu family : 22
+model : 0
+model name : AMD Athlon(tm) 5350 APU with Radeon(tm) R3
+stepping : 1
+microcode : 0x700010b
+cpu MHz : 800.000
+cache size : 2048 KB
+physical id : 0
+siblings : 4
+core id : 3
+cpu cores : 4
+apicid : 3
+initial apicid : 3
+fpu : yes
+fpu_exception : yes
+cpuid level : 13
+wp : yes
+flags : ssse3 sse4_1 sse4_2 aes avx sse4a ...省略
+bogomips : 4092.32
+TLB size : 1024 4K pages
+clflush size : 64
+cache_alignment : 64
+address sizes : 40 bits physical, 48 bits virtual
+power management: ts ttp tm 100mhzsteps hwpstate [11]

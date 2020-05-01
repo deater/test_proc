@@ -1,0 +1,25 @@
+processor : 7
+vendor_id : GenuineIntel
+cpu family : 6
+model : 60
+model name : Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz
+stepping : 3
+microcode : 0x1c
+cpu MHz : 2257.324
+cache size : 6144 KB
+physical id : 0
+siblings : 8
+core id : 3
+cpu cores : 4
+apicid : 7
+initial apicid : 7
+fpu : yes
+fpu_exception : yes
+cpuid level : 13
+wp : yes
+bugs :
+bogomips : 4988.89
+clflush size : 64
+cache_alignment : 64
+address sizes : 39 bits physical, 48 bits virtual
+power management: 

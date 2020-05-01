@@ -1,0 +1,26 @@
+processor : 0
+vendor_id : GenuineIntel
+cpu family : 4
+model : 7
+model name : 486 DX/2-WB
+stepping : 0
+cache size : 0 KB
+physical id : 0
+siblings : 0
+core id : 0
+cpu cores : 1
+apicid : 0
+initial apicid : 0
+fdiv_bug : no
+f00f_bug : no
+coma_bug : no
+fpu : yes
+fpu_exception : yes
+cpuid level c : 1
+wp : yes
+flags 　: fpu vme pse
+bogomips : 31.94
+clflusf size : 32
+cache_allignment : 32
+address sizes : 32 bits physical, 32 bits virtual
+power manahement : 

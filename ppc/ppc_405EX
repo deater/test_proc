@@ -1,0 +1,10 @@
+processor : 0
+cpu : 405EX
+clock : 600.000000MHz
+revision : 20.117 (pvr 1291 1475)
+bogomips : 1196.03
+timebase : 600000000
+platform : OpenBlockS 600
+model : PlatHome,OpenBlockS 600
+Memory : 1024 MB
+
