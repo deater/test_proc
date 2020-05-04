@@ -1,0 +1,12 @@
+Processor	: ARMv6-compatible processor rev 5 (v6l)
+BogoMIPS	: 599.65
+Features	: swp half thumb fastmult vfp edsp java
+CPU implementer	: 0x41
+CPU architecture: 6TEJ
+CPU variant	: 0x1
+CPU part	: 0xb36
+CPU revision	: 5
+
+Hardware	: legend
+Revision	: 0080
+Serial		: 0000000000000000

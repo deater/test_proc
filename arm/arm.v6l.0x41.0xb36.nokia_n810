@@ -1,0 +1,12 @@
+Processor       : ARMv6-compatible processor rev 2 (v6l)
+BogoMIPS        : 213.72
+Features        : swp half thumb fastmult vfp edsp java
+CPU implementer : 0x41
+CPU architecture: 6TEJ
+CPU variant     : 0x0
+CPU part        : 0xb36
+CPU revision    : 2
+
+Hardware        : Nokia N810
+Revision        : 0000
+Serial          : 0000000000000000
