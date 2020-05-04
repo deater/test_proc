@@ -1,0 +1,23 @@
+model name : ARMv7 Processor rev 1 (v7l)
+processor : 0
+BogoMIPS : 3170.30
+Features : half thumb fastmult vfp edsp vfpv3 tls vfpd32
+CPU implementer : 0x41
+CPU architecture: 7
+CPU variant : 0x4
+CPU part : 0xc09
+CPU revision : 1
+
+model name : ARMv7 Processor rev 1 (v7l)
+processor : 1
+BogoMIPS : 3194.88
+Features : half thumb fastmult vfp edsp vfpv3 tls vfpd32
+CPU implementer : 0x41
+CPU architecture: 7
+CPU variant : 0x4
+CPU part : 0xc09
+CPU revision : 1
+
+Hardware : Marvell Armada 380/385 (Device Tree)
+Revision : 0000
+Serial : 0000000000000000

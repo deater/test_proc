@@ -1,0 +1,23 @@
+processor	: 0
+model name	: ARMv7 Processor rev 0 (v7l)
+BogoMIPS	: 1227.57
+Features	: swp half thumb fastmult vfp edsp neon tls vfpv4 idiva idivt 
+CPU implementer	: 0x51
+CPU architecture: 7
+CPU variant	: 0x2
+CPU part	: 0x04d
+CPU revision	: 0
+
+processor	: 1
+model name	: ARMv7 Processor rev 0 (v7l)
+BogoMIPS	: 1290.24
+Features	: swp half thumb fastmult vfp edsp neon tls vfpv4 idiva idivt 
+CPU implementer	: 0x51
+CPU architecture: 7
+CPU variant	: 0x2
+CPU part	: 0x04d
+CPU revision	: 0
+
+Hardware	: Qualcomm (Flattened Device Tree)
+Revision	: 0000
+Serial		: 0000000000000000

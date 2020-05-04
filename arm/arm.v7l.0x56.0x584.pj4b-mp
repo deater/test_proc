@@ -1,0 +1,9 @@
+processor       : 0
+model name      : ARMv7 Processor rev 2 (v7l)
+BogoMIPS        : 50.00
+Features        : half thumb fastmult vfp edsp thumbee vfpv3 tls idiva idivt vfpd32 lpae
+CPU implementer : 0x56
+CPU architecture: 7
+CPU variant     : 0x2
+CPU part        : 0x584
+CPU revision    : 2

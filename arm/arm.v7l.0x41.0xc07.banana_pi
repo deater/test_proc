@@ -1,0 +1,17 @@
+Processor       : ARMv7 Processor rev 4 (v7l)
+processor       : 0
+BogoMIPS        : 1436.46
+
+processor       : 1
+BogoMIPS        : 1436.46
+
+Features        : swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt
+CPU implementer : 0x41
+CPU architecture: 7
+CPU variant     : 0x0
+CPU part        : 0xc07
+CPU revision    : 4
+
+Hardware        : sun7i
+Revision        : 0000
+Serial          : 4675636b207468652055534121
