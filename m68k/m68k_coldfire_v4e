@@ -1,0 +1,6 @@
+CPU:            ColdFire V4e
+MMU:            ColdFire
+FPU:            ColdFire V4e
+Clocking:       198.2MHz
+BogoMips:       198.24
+Calibration:    991232 loops

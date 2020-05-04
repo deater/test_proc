@@ -1,0 +1,5 @@
+cpu :      82xx
+revision : 16.20 (pvr 8081 1014)
+bogomips : 133.12
+vendor :   Motorola SPS
+machine :  Sandpoint
