@@ -1,0 +1,24 @@
+Processor       : FA526id(wb) rev 1 (v4l)
+BogoMIPS        : 231.01
+Features        : swp half
+CPU implementer : 0x66
+CPU architecture: 4
+CPU variant     : 0x0
+CPU part        : 0x526
+CPU revision    : 1
+Cache type      : write-back
+Cache clean     : cp15 c7 ops
+Cache lockdown  : format B
+Cache format    : Harvard
+I size          : 16384
+I assoc         : 2
+I line length   : 16
+I sets          : 512
+D size          : 8192
+D assoc         : 2
+D line length   : 16
+D sets          : 256
+ 
+Hardware        : GeminiA
+Revision        : 0000
+Serial          : 0000000000000000

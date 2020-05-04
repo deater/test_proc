@@ -1,0 +1,12 @@
+processor       : 0
+model name      : FA526 rev 1 (v4l)
+BogoMIPS        : 229.78
+Features        : swp half
+CPU implementer : 0x66
+CPU architecture: 4
+CPU variant     : 0x0
+CPU part        : 0x526
+CPU revision    : 1
+Hardware        : Raidsonic NAS IB-4220-B
+Revision        : 0000
+Serial          : 0000000000000000

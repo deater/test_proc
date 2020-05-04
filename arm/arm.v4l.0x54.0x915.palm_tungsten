@@ -1,0 +1,25 @@
+Processor       : ARM925Tid(wt) rev 2 (v4l)
+BogoMIPS        : 59.80
+Features        : swp half thumb 
+CPU implementer : 0x54
+CPU architecture: 4T
+CPU variant     : 0x0
+CPU part        : 0x915
+CPU revision    : 2
+Cache type      : write-back
+Cache clean     : cp15 c7 ops
+Cache lockdown  : not supported
+Cache format    : Harvard
+I size          : 16384
+I assoc         : 2
+I line length   : 16
+I sets          : 512
+D size          : 8192
+D assoc         : 2
+D line length   : 16
+D sets          : 256
+
+Hardware        : Generic 
+OMAP1510/1610/1710
+Revision        : 15100015
+Serial          : 4f82342342b718c83c

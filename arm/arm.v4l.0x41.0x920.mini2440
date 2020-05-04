@@ -1,0 +1,12 @@
+Processor       : ARM920T rev 0 (v4l)
+BogoMIPS        : 201.93
+Features        : swp half 
+CPU implementer : 0x41
+CPU architecture: 4T
+CPU variant     : 0x1
+CPU part        : 0x920
+CPU revision    : 0
+
+Hardware        : FriendlyARM Mini2440 development board
+Revision        : 0000
+Serial          : 0000000000000000

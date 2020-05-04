@@ -1,0 +1,13 @@
+Code Listing 2.1: CPU Info
+Processor       : StrongARM-110 rev 4 (v4l)
+BogoMIPS        : 185.54
+Features        : swp half 26bit fastmult
+CPU implementer : 0x44
+CPU architecture: 4
+CPU variant     : 0x0
+CPU part        : 0xa10
+CPU revision    : 4
+
+Hardware        : Rebel-NetWinder
+Revision        : 59ff
+Serial          : 0000000000000000
