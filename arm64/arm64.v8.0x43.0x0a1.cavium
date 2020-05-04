@@ -1,0 +1,55 @@
+Processor       : AArch64 Processor rev 0 (aarch64)
+processor       : 0
+processor       : 1
+processor       : 2
+processor       : 3
+processor       : 4
+processor       : 5
+processor       : 6
+processor       : 7
+processor       : 8
+processor       : 9
+processor       : 10
+processor       : 11
+processor       : 12
+processor       : 13
+processor       : 14
+processor       : 15
+processor       : 16
+processor       : 17
+processor       : 18
+processor       : 19
+processor       : 20
+processor       : 21
+processor       : 22
+processor       : 23
+processor       : 24
+processor       : 25
+processor       : 26
+processor       : 27
+processor       : 28
+processor       : 29
+processor       : 30
+processor       : 31
+processor       : 32
+processor       : 33
+processor       : 34
+processor       : 35
+processor       : 36
+processor       : 37
+processor       : 38
+processor       : 39
+processor       : 40
+processor       : 41
+processor       : 42
+processor       : 43
+processor       : 44
+processor       : 45
+processor       : 46
+processor       : 47
+Features        : fp asimd aes pmull sha1 sha2 crc32
+CPU implementer : 0x43
+CPU architecture: AArch64
+CPU variant     : 0x0
+CPU part        : 0x0a1
+CPU revision    : 0
