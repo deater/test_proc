@@ -1,0 +1,8 @@
+processor   : 0
+model name  : ARM926EJ-S rev 5 (v5l)
+Features    : swp half thumb fastmult edsp java 
+CPU implementer : 0x41
+CPU architecture: 5TEJ
+CPU variant : 0x0
+CPU part    : 0x926
+CPU revision    : 5

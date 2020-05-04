@@ -1,0 +1,12 @@
+Processor    : XScale-V3 based processor rev 7 (v5l)
+BogoMIPS    : 804.45
+Features    : swp half thumb fastmult edsp iwmmxt
+CPU implementer    : 0x69
+CPU architecture: 5TE
+CPU variant    : 0x0
+CPU part    : 0x682
+CPU revision    : 7
+
+Hardware    : Toradex Colibri PXA320
+Revision    : 0000
+Serial        : 000023c9222d1400

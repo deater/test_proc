@@ -1,0 +1,13 @@
+Processor       : FA626TE rev 1 (v5l)
+BogoMIPS        : 534.52
+Features        : swp half thumb
+CPU implementer : 0x66
+CPU architecture: 5TE
+CPU variant     : 0x0
+CPU part        : 0x626
+CPU revision    : 1
+
+Hardware        : Faraday GM8126
+Revision        : 0000
+Serial          : 0000000000000000
+

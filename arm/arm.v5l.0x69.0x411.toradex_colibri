@@ -1,0 +1,12 @@
+Processor       : XScale-PXA270 rev 8 (v5l)
+BogoMIPS        : 207.66
+Features        : swp half thumb fastmult edsp iwmmxt
+CPU implementer : 0x69
+CPU architecture: 5TE
+CPU variant     : 0x0
+CPU part        : 0x411
+CPU revision    : 8
+ 
+Hardware        : Toradex Colibri PXA270
+Revision        : 0000
+Serial          : 0000000000000000
