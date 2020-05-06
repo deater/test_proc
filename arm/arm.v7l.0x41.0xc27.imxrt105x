@@ -1,0 +1,13 @@
+processor : 0
+model name : ARMv7-M rev 1 (v7ml)
+BogoMIPS : 1196.85
+Features : half thumb fastmult idivt 
+CPU implementer : 0x41
+CPU architecture: 7M
+CPU variant : 0x1
+CPU part : 0xc27
+CPU revision : 1
+
+Hardware : IMXRT105X (Device Tree Support)
+Revision : 0000
+Serial : 0000000000000000

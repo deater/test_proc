@@ -1,0 +1,13 @@
+Processor       : ARMv6-compatible processor rev 4 (v6l)
+processor       : 0
+BogoMIPS        : 398.95
+
+processor       : 1
+BogoMIPS        : 398.95
+
+Features        : swp half thumb fastmult vfp edsp java 
+CPU implementer : 0x41
+CPU architecture: 7
+CPU variant     : 0x0
+CPU part        : 0xb02
+CPU revision    : 4

@@ -1,0 +1,20 @@
+Processor       : ARM1026EJ-Sid(wb)B rev 2 (v5l)
+*BogoMIPS        : 351.43*
+Features        : swp half thumb fastmult edsp java
+CPU implementer : 0x41
+CPU architecture: 5TEJ
+CPU variant     : 0x0
+CPU part        : 0xa26
+CPU revision    : 2
+Cache type      : write-back
+Cache clean     : cp15 c7 ops
+Cache lockdown  : format C
+Cache format    : Harvard
+I size          : 16384
+I assoc         : 4
+I line length   : 32
+I sets          : 128
+D size          : 8192
+D assoc         : 4
+D line length   : 32
+D sets          : 64
