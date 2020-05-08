@@ -19,7 +19,6 @@ D assoc         : 2
 D line length   : 16
 D sets          : 256
 
-Hardware        : Generic 
-OMAP1510/1610/1710
+Hardware        : Generic OMAP1510/1610/1710
 Revision        : 15100015
 Serial          : 4f82342342b718c83c

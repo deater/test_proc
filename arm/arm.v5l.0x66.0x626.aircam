@@ -1,7 +1,7 @@
 Processor       : FA626TE rev 1 (v5l)
 BogoMIPS        : 534.52
 Features        : swp half thumb CPU
-implementer : 0x66
+CPU implementer : 0x66
 CPU architecture: 5TECPU
 variant     : 0x0
 CPU part        : 0x626

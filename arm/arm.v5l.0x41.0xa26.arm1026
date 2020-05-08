@@ -1,5 +1,5 @@
 Processor       : ARM1026EJ-Sid(wb)B rev 2 (v5l)
-*BogoMIPS        : 351.43*
+BogoMIPS        : 351.43
 Features        : swp half thumb fastmult edsp java
 CPU implementer : 0x41
 CPU architecture: 5TEJ
