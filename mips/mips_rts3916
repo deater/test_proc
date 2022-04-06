@@ -1,0 +1,18 @@
+system type             : Realtek RTS39XX
+machine                 : RTS3916 EVB
+processor               : 0
+cpu model               : Taroko V0.2  FPU V0.1
+BogoMIPS                : 798.72
+wait instruction        : yes
+microsecond timers      : yes
+tlb_entries             : 64
+extra interrupt vector  : no
+hardware watchpoint     : no
+isa                     : mips1
+ASEs implemented        : mips16
+shadow register sets    : 1
+kscratch registers      : 0
+package                 : 0
+core                    : 0
+VCED exceptions         : not available
+VCEI exceptions         : not available
