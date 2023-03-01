@@ -1,0 +1,19 @@
+processor       : 0
+vendor_id       : AuthenticAMD
+cpu family      : 5
+model           : 7
+model name      : AMD-K6tm w/ multimedia extensions
+stepping        : 0
+cpu MHz         : 267.277
+cache size      : 64 KB
+fdiv_bug        : no
+hlt_bug         : no
+sep_bug         : no
+f00f_bug        : no
+coma_bug        : no
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 1
+wp              : yes
+flags           : fpu vme de pse tsc msr mce cx8 10 mmx
+bogomips        : 532.48

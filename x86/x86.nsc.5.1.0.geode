@@ -1,0 +1,17 @@
+processor       : 0
+vendor_id       : Geode by NSC
+cpu family      : 5
+model           : 1
+model name      : Cx486DLC
+stepping        : 0
+cpu MHz         : 332.052
+fdiv_bug        : no
+hlt_bug         : no
+f00f_bug        : no
+coma_bug        : no
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 1
+wp              : yes
+flags           : fpu de pse tsc msr cx8 pge cmov mmx mmxext 3dnowext 3dnow
+bogomips        : 647.16

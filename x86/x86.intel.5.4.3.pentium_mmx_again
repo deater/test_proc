@@ -1,0 +1,21 @@
+processor	: 0                                                                   
+vendor_id	: GenuineIntel
+cpu family	: 5
+model		: 4
+model name	: Pentium MMX
+stepping	: 3
+cpu MHz		: 997.417
+cache size	: 0 KB
+fdiv_bug	: no
+f00f_bug	: yes
+coma_bug	: no
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 1
+wp		: yes
+flags		: fpu pse tsc msr mce cx8 apic mmx hypervisor
+bogomips	: 1994.83
+clflush size	: 32
+cache_alignment	: 32
+address sizes	: 32 bits physical, 32 bits virtual
+power management:

@@ -1,0 +1,12 @@
+processor       : 0
+vendor_id       : GenuineIntel
+cpu family      : 4
+model           : 8
+model name      : 486 DX/4
+stepping        : 0
+cache size      : 0 KB
+hlt_bug         : no
+f00f_bug        : no
+coma_bug        : no
+fpu             : yes
+fpu_exception   : yes

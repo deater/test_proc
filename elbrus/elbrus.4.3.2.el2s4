@@ -1,0 +1,207 @@
+processor       : 0
+vendor_id       : EL2S4
+cpu family      : 4
+model           : 3
+model name      : E2S
+revision        : 2
+cpu MHz         : 749.999185
+L1 cache size   : 64 KB
+L1 cache line length    : 32 bytes
+L2 cache size   : 2048 KB
+L2 cache line length    : 64 bytes
+bogomips        : 1501.12
+
+processor       : 1
+vendor_id       : EL2S4
+cpu family      : 4
+model           : 3
+model name      : E2S
+revision        : 2
+cpu MHz         : 749.999185
+L1 cache size   : 64 KB
+L1 cache line length    : 32 bytes
+L2 cache size   : 2048 KB
+L2 cache line length    : 64 bytes
+bogomips        : 1499.99
+
+processor       : 2
+vendor_id       : EL2S4
+cpu family      : 4
+model           : 3
+model name      : E2S
+revision        : 2
+cpu MHz         : 749.999185
+L1 cache size   : 64 KB
+L1 cache line length    : 32 bytes
+L2 cache size   : 2048 KB
+L2 cache line length    : 64 bytes
+bogomips        : 1499.99
+
+processor       : 3
+vendor_id       : EL2S4
+cpu family      : 4
+model           : 3
+model name      : E2S
+revision        : 2
+cpu MHz         : 749.999185
+L1 cache size   : 64 KB
+L1 cache line length    : 32 bytes
+L2 cache size   : 2048 KB
+L2 cache line length    : 64 bytes
+bogomips        : 1499.98
+
+processor       : 4
+vendor_id       : EL2S4
+cpu family      : 4
+model           : 3
+model name      : E2S
+revision        : 2
+cpu MHz         : 749.999185
+L1 cache size   : 64 KB
+L1 cache line length    : 32 bytes
+L2 cache size   : 2048 KB
+L2 cache line length    : 64 bytes
+bogomips        : 1500.01
+
+processor       : 5
+vendor_id       : EL2S4
+cpu family      : 4
+model           : 3
+model name      : E2S
+revision        : 2
+cpu MHz         : 749.999185
+L1 cache size   : 64 KB
+L1 cache line length    : 32 bytes
+L2 cache size   : 2048 KB
+L2 cache line length    : 64 bytes
+bogomips        : 1500.04
+
+processor       : 6
+vendor_id       : EL2S4
+cpu family      : 4
+model           : 3
+model name      : E2S
+revision        : 2
+cpu MHz         : 749.999185
+L1 cache size   : 64 KB
+L1 cache line length    : 32 bytes
+L2 cache size   : 2048 KB
+L2 cache line length    : 64 bytes
+bogomips        : 1500.06
+
+processor       : 7
+vendor_id       : EL2S4
+cpu family      : 4
+model           : 3
+model name      : E2S
+revision        : 2
+cpu MHz         : 749.999185
+L1 cache size   : 64 KB
+L1 cache line length    : 32 bytes
+L2 cache size   : 2048 KB
+L2 cache line length    : 64 bytes
+bogomips        : 1500.06
+
+processor       : 8
+vendor_id       : EL2S4
+cpu family      : 4
+model           : 3
+model name      : E2S
+revision        : 2
+cpu MHz         : 749.999185
+L1 cache size   : 64 KB
+L1 cache line length    : 32 bytes
+L2 cache size   : 2048 KB
+L2 cache line length    : 64 bytes
+bogomips        : 1500.03
+
+processor       : 9
+vendor_id       : EL2S4
+cpu family      : 4
+model           : 3
+model name      : E2S
+revision        : 2
+cpu MHz         : 749.999185
+L1 cache size   : 64 KB
+L1 cache line length    : 32 bytes
+L2 cache size   : 2048 KB
+L2 cache line length    : 64 bytes
+bogomips        : 1500.01
+
+processor       : 10
+vendor_id       : EL2S4
+cpu family      : 4
+model           : 3
+model name      : E2S
+revision        : 2
+cpu MHz         : 749.999185
+L1 cache size   : 64 KB
+L1 cache line length    : 32 bytes
+L2 cache size   : 2048 KB
+L2 cache line length    : 64 bytes
+bogomips        : 1500.01
+
+processor       : 11
+vendor_id       : EL2S4
+cpu family      : 4
+model           : 3
+model name      : E2S
+revision        : 2
+cpu MHz         : 749.999185
+L1 cache size   : 64 KB
+L1 cache line length    : 32 bytes
+L2 cache size   : 2048 KB
+L2 cache line length    : 64 bytes
+bogomips        : 1500.04
+
+processor       : 12
+vendor_id       : EL2S4
+cpu family      : 4
+model           : 3
+model name      : E2S
+revision        : 2
+cpu MHz         : 749.999185
+L1 cache size   : 64 KB
+L1 cache line length    : 32 bytes
+L2 cache size   : 2048 KB
+L2 cache line length    : 64 bytes
+bogomips        : 1500.03
+
+processor       : 13
+vendor_id       : EL2S4
+cpu family      : 4
+model           : 3
+model name      : E2S
+revision        : 2
+cpu MHz         : 749.999185
+L1 cache size   : 64 KB
+L1 cache line length    : 32 bytes
+L2 cache size   : 2048 KB
+L2 cache line length    : 64 bytes
+bogomips        : 1500.03
+
+processor       : 14
+vendor_id       : EL2S4
+cpu family      : 4
+model           : 3
+model name      : E2S
+revision        : 2
+cpu MHz         : 749.999185
+L1 cache size   : 64 KB
+L1 cache line length    : 32 bytes
+L2 cache size   : 2048 KB
+L2 cache line length    : 64 bytes
+bogomips        : 1500.05
+
+processor       : 15
+vendor_id       : EL2S4
+cpu family      : 4
+model           : 3
+model name      : E2S
+revision        : 2
+cpu MHz         : 749.999185
+L1 cache size   : 64 KB
+L1 cache line length    : 32 bytes
+L2 cache size   : 2048 KB
+L2 cache line length    : 64 bytes
+bogomips        : 1500.05

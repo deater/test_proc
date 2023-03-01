@@ -1,0 +1,479 @@
+processor	: 0
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2401.20
+
+processor	: 1
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.02
+
+processor	: 2
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.03
+
+processor	: 3
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.02
+
+processor	: 4
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.03
+
+processor	: 5
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.03
+
+processor	: 6
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.03
+
+processor	: 7
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.03
+
+processor	: 16
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.08
+
+processor	: 17
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.09
+
+processor	: 18
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.10
+
+processor	: 19
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.09
+
+processor	: 20
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.09
+
+processor	: 21
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.09
+
+processor	: 22
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.10
+
+processor	: 23
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.09
+
+processor	: 32
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.10
+
+processor	: 33
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.09
+
+processor	: 34
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.09
+
+processor	: 35
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.09
+
+processor	: 36
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.10
+
+processor	: 37
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.09
+
+processor	: 38
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.09
+
+processor	: 39
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.09
+
+processor	: 48
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.09
+
+processor	: 49
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.09
+
+processor	: 50
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.10
+
+processor	: 51
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.09
+
+processor	: 52
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.09
+
+processor	: 53
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.09
+
+processor	: 54
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.09
+
+processor	: 55
+vendor_id	: E8C-SWTX
+cpu family	: 4
+model		: 7
+model name	: E8C
+revision	: 2
+cpu MHz		: 1200.2470
+L1 cache size	: 64 KB
+L1 cache line length	: 32 bytes
+L2 cache size	: 512 KB
+L2 cache line length	: 64 bytes
+L3 cache size	: 16384 KB
+L3 cache line length	: 64 bytes
+bogomips	: 2400.09

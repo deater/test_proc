@@ -1,0 +1,21 @@
+processor   : 0
+vendor_id   : Vortex86 SoC
+cpu family  : 5
+model   : 2
+model name  : 05/02
+stepping: 2
+cpu MHz : 799.974
+fdiv_bug: no
+hlt_bug : no
+f00f_bug: no
+coma_bug: no
+fpu : yes
+fpu_exception   : yes
+cpuid level : 1
+wp  : yes
+flags   : fpu tsc cx8
+bogomips: 1599.94
+clflush size: 32
+cache_alignment : 32
+address sizes   : 32 bits physical, 32 bits virtual
+power management:

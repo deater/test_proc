@@ -1,0 +1,18 @@
+processor   : 0
+vendor_id   : GenuineIntel
+cpu family  : 5
+model   : 3
+model name  : OverDrive PODP5V83
+stepping: 2
+cpu MHz : 83.524009
+fdiv_bug: no
+hlt_bug : no
+sep_bug : no
+f00f_bug: yes
+coma_bug: no
+fpu : yes
+fpu_exception   : yes
+cpuid level : 1
+wp  : yes
+flags   : fpu vme de pse tsc msr cx8
+bogomips: 33.28
