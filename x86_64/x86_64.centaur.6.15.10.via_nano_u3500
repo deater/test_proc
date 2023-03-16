@@ -1,0 +1,18 @@
+processor : 0
+vendor_id : CentaurHauls
+cpu family : 6
+model : 15
+model name : VIA Nano U3500@1000MHz
+stepping : 10
+cpu MHz : 800.000
+cache size : 1024 KB
+fpu : yes
+fpu_exception : yes
+cpuid level : 10
+wp : yes
+flags : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat clflush acpi mmx fxsr sse sse2 ss tm pbe syscall nx lm constant_tsc up rep_g ood nopl pni monitor vmx est tm2 ssse3 cx16 xtpr sse4_1 popcnt rng rng_en ace ac e_en ace2 phe phe_en pmm pmm_en lahf_lm ida
+bogomips : 1995.01
+clflush size : 64
+cache_alignment : 128
+address sizes : 36 bits physical, 48 bits virtual
+power management:
