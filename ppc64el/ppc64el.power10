@@ -1,0 +1,965 @@
+processor	: 0
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 1
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 2
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 3
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 4
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 5
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 6
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 7
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 8
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 9
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 10
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 11
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 12
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 13
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 14
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 15
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 16
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 17
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 18
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 19
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 20
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 21
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 22
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 23
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 24
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 25
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 26
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 27
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 28
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 29
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 30
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 31
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 32
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 33
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 34
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 35
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 36
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 37
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 38
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 39
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 40
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 41
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 42
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 43
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 44
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 45
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 46
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 47
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 48
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 49
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 50
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 51
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 52
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 53
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 54
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 55
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 56
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 57
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 58
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 59
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 60
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 61
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 62
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 63
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 64
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 65
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 66
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 67
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 68
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 69
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 70
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 71
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 72
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 73
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 74
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 75
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 76
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 77
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 78
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 79
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 80
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 81
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 82
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 83
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 84
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 85
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 86
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 87
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 88
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 89
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 90
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 91
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 92
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 93
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 94
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 95
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 96
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 97
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 98
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 99
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 100
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 101
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 102
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 103
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 104
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 105
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 106
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 107
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 108
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 109
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 110
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 111
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 112
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 113
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 114
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 115
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 116
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 117
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 118
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 119
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 120
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 121
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 122
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 123
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 124
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 125
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 126
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 127
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 128
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 129
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 130
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 131
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 132
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 133
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 134
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 135
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 136
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 137
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 138
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 139
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 140
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 141
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 142
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 143
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 144
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 145
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 146
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 147
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 148
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 149
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 150
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 151
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 152
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 153
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 154
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 155
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 156
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 157
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 158
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 159
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 160
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 161
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 162
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 163
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 164
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 165
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 166
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 167
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 168
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 169
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 170
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 171
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 172
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 173
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 174
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 175
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 176
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 177
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 178
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 179
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 180
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 181
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 182
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 183
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 184
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 185
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 186
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 187
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 188
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 189
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 190
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+processor	: 191
+cpu		: POWER10 (architected), altivec supported
+clock		: 2950.000000MHz
+revision	: 2.0 (pvr 0080 0200)
+
+timebase	: 512000000
+platform	: pSeries
+model		: IBM,9043-MRX
+machine		: CHRP IBM,9043-MRX
+MMU		: Radix
