@@ -1,0 +1,10 @@
+processor       : 0
+cpu             : e300c2
+clock           : 333.333335MHz
+revision        : 1.1 (pvr 8084 0011)
+bogomips        : 66.66
+ 
+timebase        : 33333333
+platform        : CMPCPRO
+model           : MIAE
+Memory          : 512 MB
