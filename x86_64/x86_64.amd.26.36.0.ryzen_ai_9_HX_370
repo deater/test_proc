@@ -1,0 +1,442 @@
+processor : 0
+vendor_id : AuthenticAMD
+cpu family : 26
+model : 36
+model name : AMD Ryzen AI 9 HX 370 w/ Radeon 890M
+stepping : 0
+microcode : 0xb20401b
+cpu MHz : 1996.209
+cache size : 1024 KB
+physical id : 0
+siblings : 12
+core id : 0
+cpu cores : 12
+apicid : 0
+initial apicid : 0
+fpu : yes
+fpu_exception : yes
+cpuid level : 13
+wp : yes
+flags : fpu de tsc msr pae mce cx8 apic mca cmov pat clflush mmx fxsr
+sse sse2 ht syscall nx mmxext fxsr_opt rdtscp lm constant_tsc rep_good
+nopl nonstop_tsc cpuid extd_apicid tsc_known_freq pni pclmulqdq ssse3
+fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor
+lahf_lm cmp_legacy abm sse4a misalignsse 3dnowprefetch bpext ibpb
+vmmcall fsgsbase bmi1 avx2 bmi2 erms avx512f avx512dq rdseed adx
+avx512ifma clflushopt clwb avx512cd sha_ni avx512bw avx512vl xsaveopt
+xsavec xgetbv1 avx_vnni avx512_bf16 clzero xsaveerptr arat avx512vbmi
+avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg
+avx512_vpopcntdq rdpid fsrm
+bugs : spectre_v1 spectre_v2 spec_store_bypass srso
+bogomips : 3992.53
+TLB size : 192 4K pages
+clflush size : 64
+cache_alignment : 64
+address sizes : 46 bits physical, 48 bits virtual
+power management:
+
+processor : 1
+vendor_id : AuthenticAMD
+cpu family : 26
+model : 36
+model name : AMD Ryzen AI 9 HX 370 w/ Radeon 890M
+stepping : 0
+microcode : 0xb20401b
+cpu MHz : 1996.209
+cache size : 1024 KB
+physical id : 0
+siblings : 12
+core id : 1
+cpu cores : 12
+apicid : 1
+initial apicid : 1
+fpu : yes
+fpu_exception : yes
+cpuid level : 13
+wp : yes
+flags : fpu de tsc msr pae mce cx8 apic mca cmov pat clflush mmx fxsr
+sse sse2 ht syscall nx mmxext fxsr_opt rdtscp lm constant_tsc rep_good
+nopl nonstop_tsc cpuid extd_apicid tsc_known_freq pni pclmulqdq ssse3
+fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor
+lahf_lm cmp_legacy abm sse4a misalignsse 3dnowprefetch bpext ibpb
+vmmcall fsgsbase bmi1 avx2 bmi2 erms avx512f avx512dq rdseed adx
+avx512ifma clflushopt clwb avx512cd sha_ni avx512bw avx512vl xsaveopt
+xsavec xgetbv1 avx_vnni avx512_bf16 clzero xsaveerptr arat avx512vbmi
+avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg
+avx512_vpopcntdq rdpid fsrm
+bugs : spectre_v1 spectre_v2 spec_store_bypass srso
+bogomips : 3992.53
+TLB size : 192 4K pages
+clflush size : 64
+cache_alignment : 64
+address sizes : 46 bits physical, 48 bits virtual
+power management:
+
+processor : 2
+vendor_id : AuthenticAMD
+cpu family : 26
+model : 36
+model name : AMD Ryzen AI 9 HX 370 w/ Radeon 890M
+stepping : 0
+microcode : 0xb20401b
+cpu MHz : 1996.209
+cache size : 1024 KB
+physical id : 0
+siblings : 12
+core id : 2
+cpu cores : 12
+apicid : 2
+initial apicid : 2
+fpu : yes
+fpu_exception : yes
+cpuid level : 13
+wp : yes
+flags : fpu de tsc msr pae mce cx8 apic mca cmov pat clflush mmx fxsr
+sse sse2 ht syscall nx mmxext fxsr_opt rdtscp lm constant_tsc rep_good
+nopl nonstop_tsc cpuid extd_apicid tsc_known_freq pni pclmulqdq ssse3
+fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor
+lahf_lm cmp_legacy abm sse4a misalignsse 3dnowprefetch bpext ibpb
+vmmcall fsgsbase bmi1 avx2 bmi2 erms avx512f avx512dq rdseed adx
+avx512ifma clflushopt clwb avx512cd sha_ni avx512bw avx512vl xsaveopt
+xsavec xgetbv1 avx_vnni avx512_bf16 clzero xsaveerptr arat avx512vbmi
+avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg
+avx512_vpopcntdq rdpid fsrm
+bugs : spectre_v1 spectre_v2 spec_store_bypass srso
+bogomips : 3992.53
+TLB size : 192 4K pages
+clflush size : 64
+cache_alignment : 64
+address sizes : 46 bits physical, 48 bits virtual
+power management:
+
+processor : 3
+vendor_id : AuthenticAMD
+cpu family : 26
+model : 36
+model name : AMD Ryzen AI 9 HX 370 w/ Radeon 890M
+stepping : 0
+microcode : 0xb20401b
+cpu MHz : 1996.209
+cache size : 1024 KB
+physical id : 0
+siblings : 12
+core id : 3
+cpu cores : 12
+apicid : 3
+initial apicid : 3
+fpu : yes
+fpu_exception : yes
+cpuid level : 13
+wp : yes
+flags : fpu de tsc msr pae mce cx8 apic mca cmov pat clflush mmx fxsr
+sse sse2 ht syscall nx mmxext fxsr_opt rdtscp lm constant_tsc rep_good
+nopl nonstop_tsc cpuid extd_apicid tsc_known_freq pni pclmulqdq ssse3
+fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor
+lahf_lm cmp_legacy abm sse4a misalignsse 3dnowprefetch bpext ibpb
+vmmcall fsgsbase bmi1 avx2 bmi2 erms avx512f avx512dq rdseed adx
+avx512ifma clflushopt clwb avx512cd sha_ni avx512bw avx512vl xsaveopt
+xsavec xgetbv1 avx_vnni avx512_bf16 clzero xsaveerptr arat avx512vbmi
+avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg
+avx512_vpopcntdq rdpid fsrm
+bugs : spectre_v1 spectre_v2 spec_store_bypass srso
+bogomips : 3992.53
+TLB size : 192 4K pages
+clflush size : 64
+cache_alignment : 64
+address sizes : 46 bits physical, 48 bits virtual
+power management:
+
+processor : 4
+vendor_id : AuthenticAMD
+cpu family : 26
+model : 36
+model name : AMD Ryzen AI 9 HX 370 w/ Radeon 890M
+stepping : 0
+microcode : 0xb20401b
+cpu MHz : 1996.209
+cache size : 1024 KB
+physical id : 0
+siblings : 12
+core id : 4
+cpu cores : 12
+apicid : 4
+initial apicid : 4
+fpu : yes
+fpu_exception : yes
+cpuid level : 13
+wp : yes
+flags : fpu de tsc msr pae mce cx8 apic mca cmov pat clflush mmx fxsr
+sse sse2 ht syscall nx mmxext fxsr_opt rdtscp lm constant_tsc rep_good
+nopl nonstop_tsc cpuid extd_apicid tsc_known_freq pni pclmulqdq ssse3
+fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor
+lahf_lm cmp_legacy abm sse4a misalignsse 3dnowprefetch bpext ibpb
+vmmcall fsgsbase bmi1 avx2 bmi2 erms avx512f avx512dq rdseed adx
+avx512ifma clflushopt clwb avx512cd sha_ni avx512bw avx512vl xsaveopt
+xsavec xgetbv1 avx_vnni avx512_bf16 clzero xsaveerptr arat avx512vbmi
+avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg
+avx512_vpopcntdq rdpid fsrm
+bugs : spectre_v1 spectre_v2 spec_store_bypass srso
+bogomips : 3992.53
+TLB size : 192 4K pages
+clflush size : 64
+cache_alignment : 64
+address sizes : 46 bits physical, 48 bits virtual
+power management:
+
+processor : 5
+vendor_id : AuthenticAMD
+cpu family : 26
+model : 36
+model name : AMD Ryzen AI 9 HX 370 w/ Radeon 890M
+stepping : 0
+microcode : 0xb20401b
+cpu MHz : 1996.209
+cache size : 1024 KB
+physical id : 0
+siblings : 12
+core id : 5
+cpu cores : 12
+apicid : 5
+initial apicid : 5
+fpu : yes
+fpu_exception : yes
+cpuid level : 13
+wp : yes
+flags : fpu de tsc msr pae mce cx8 apic mca cmov pat clflush mmx fxsr
+sse sse2 ht syscall nx mmxext fxsr_opt rdtscp lm constant_tsc rep_good
+nopl nonstop_tsc cpuid extd_apicid tsc_known_freq pni pclmulqdq ssse3
+fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor
+lahf_lm cmp_legacy abm sse4a misalignsse 3dnowprefetch bpext ibpb
+vmmcall fsgsbase bmi1 avx2 bmi2 erms avx512f avx512dq rdseed adx
+avx512ifma clflushopt clwb avx512cd sha_ni avx512bw avx512vl xsaveopt
+xsavec xgetbv1 avx_vnni avx512_bf16 clzero xsaveerptr arat avx512vbmi
+avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg
+avx512_vpopcntdq rdpid fsrm
+bugs : spectre_v1 spectre_v2 spec_store_bypass srso
+bogomips : 3992.53
+TLB size : 192 4K pages
+clflush size : 64
+cache_alignment : 64
+address sizes : 46 bits physical, 48 bits virtual
+power management:
+
+processor : 6
+vendor_id : AuthenticAMD
+cpu family : 26
+model : 36
+model name : AMD Ryzen AI 9 HX 370 w/ Radeon 890M
+stepping : 0
+microcode : 0xb20401b
+cpu MHz : 1996.209
+cache size : 1024 KB
+physical id : 0
+siblings : 12
+core id : 6
+cpu cores : 12
+apicid : 6
+initial apicid : 6
+fpu : yes
+fpu_exception : yes
+cpuid level : 13
+wp : yes
+flags : fpu de tsc msr pae mce cx8 apic mca cmov pat clflush mmx fxsr
+sse sse2 ht syscall nx mmxext fxsr_opt rdtscp lm constant_tsc rep_good
+nopl nonstop_tsc cpuid extd_apicid tsc_known_freq pni pclmulqdq ssse3
+fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor
+lahf_lm cmp_legacy abm sse4a misalignsse 3dnowprefetch bpext ibpb
+vmmcall fsgsbase bmi1 avx2 bmi2 erms avx512f avx512dq rdseed adx
+avx512ifma clflushopt clwb avx512cd sha_ni avx512bw avx512vl xsaveopt
+xsavec xgetbv1 avx_vnni avx512_bf16 clzero xsaveerptr arat avx512vbmi
+avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg
+avx512_vpopcntdq rdpid fsrm
+bugs : spectre_v1 spectre_v2 spec_store_bypass srso
+bogomips : 3992.53
+TLB size : 192 4K pages
+clflush size : 64
+cache_alignment : 64
+address sizes : 46 bits physical, 48 bits virtual
+power management:
+
+processor : 7
+vendor_id : AuthenticAMD
+cpu family : 26
+model : 36
+model name : AMD Ryzen AI 9 HX 370 w/ Radeon 890M
+stepping : 0
+microcode : 0xb20401b
+cpu MHz : 1996.209
+cache size : 1024 KB
+physical id : 0
+siblings : 12
+core id : 7
+cpu cores : 12
+apicid : 7
+initial apicid : 7
+fpu : yes
+fpu_exception : yes
+cpuid level : 13
+wp : yes
+flags : fpu de tsc msr pae mce cx8 apic mca cmov pat clflush mmx fxsr
+sse sse2 ht syscall nx mmxext fxsr_opt rdtscp lm constant_tsc rep_good
+nopl nonstop_tsc cpuid extd_apicid tsc_known_freq pni pclmulqdq ssse3
+fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor
+lahf_lm cmp_legacy abm sse4a misalignsse 3dnowprefetch bpext ibpb
+vmmcall fsgsbase bmi1 avx2 bmi2 erms avx512f avx512dq rdseed adx
+avx512ifma clflushopt clwb avx512cd sha_ni avx512bw avx512vl xsaveopt
+xsavec xgetbv1 avx_vnni avx512_bf16 clzero xsaveerptr arat avx512vbmi
+avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg
+avx512_vpopcntdq rdpid fsrm
+bugs : spectre_v1 spectre_v2 spec_store_bypass srso
+bogomips : 3992.53
+TLB size : 192 4K pages
+clflush size : 64
+cache_alignment : 64
+address sizes : 46 bits physical, 48 bits virtual
+power management:
+
+processor : 8
+vendor_id : AuthenticAMD
+cpu family : 26
+model : 36
+model name : AMD Ryzen AI 9 HX 370 w/ Radeon 890M
+stepping : 0
+microcode : 0xb20401b
+cpu MHz : 1996.209
+cache size : 1024 KB
+physical id : 0
+siblings : 12
+core id : 16
+cpu cores : 12
+apicid : 16
+initial apicid : 8
+fpu : yes
+fpu_exception : yes
+cpuid level : 13
+wp : yes
+flags : fpu de tsc msr pae mce cx8 apic mca cmov pat clflush mmx fxsr
+sse sse2 ht syscall nx mmxext fxsr_opt rdtscp lm constant_tsc rep_good
+nopl nonstop_tsc cpuid extd_apicid tsc_known_freq pni pclmulqdq ssse3
+fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor
+lahf_lm cmp_legacy abm sse4a misalignsse 3dnowprefetch bpext ibpb
+vmmcall fsgsbase bmi1 avx2 bmi2 erms avx512f avx512dq rdseed adx
+avx512ifma clflushopt clwb avx512cd sha_ni avx512bw avx512vl xsaveopt
+xsavec xgetbv1 avx_vnni avx512_bf16 clzero xsaveerptr arat avx512vbmi
+avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg
+avx512_vpopcntdq rdpid fsrm
+bugs : spectre_v1 spectre_v2 spec_store_bypass srso
+bogomips : 3992.53
+TLB size : 192 4K pages
+clflush size : 64
+cache_alignment : 64
+address sizes : 46 bits physical, 48 bits virtual
+power management:
+
+processor : 9
+vendor_id : AuthenticAMD
+cpu family : 26
+model : 36
+model name : AMD Ryzen AI 9 HX 370 w/ Radeon 890M
+stepping : 0
+microcode : 0xb20401b
+cpu MHz : 1996.209
+cache size : 1024 KB
+physical id : 0
+siblings : 12
+core id : 17
+cpu cores : 12
+apicid : 17
+initial apicid : 9
+fpu : yes
+fpu_exception : yes
+cpuid level : 13
+wp : yes
+flags : fpu de tsc msr pae mce cx8 apic mca cmov pat clflush mmx fxsr
+sse sse2 ht syscall nx mmxext fxsr_opt rdtscp lm constant_tsc rep_good
+nopl nonstop_tsc cpuid extd_apicid tsc_known_freq pni pclmulqdq ssse3
+fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor
+lahf_lm cmp_legacy abm sse4a misalignsse 3dnowprefetch bpext ibpb
+vmmcall fsgsbase bmi1 avx2 bmi2 erms avx512f avx512dq rdseed adx
+avx512ifma clflushopt clwb avx512cd sha_ni avx512bw avx512vl xsaveopt
+xsavec xgetbv1 avx_vnni avx512_bf16 clzero xsaveerptr arat avx512vbmi
+avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg
+avx512_vpopcntdq rdpid fsrm
+bugs : spectre_v1 spectre_v2 spec_store_bypass srso
+bogomips : 3992.53
+TLB size : 192 4K pages
+clflush size : 64
+cache_alignment : 64
+address sizes : 46 bits physical, 48 bits virtual
+power management:
+
+processor : 10
+vendor_id : AuthenticAMD
+cpu family : 26
+model : 36
+model name : AMD Ryzen AI 9 HX 370 w/ Radeon 890M
+stepping : 0
+microcode : 0xb20401b
+cpu MHz : 1996.209
+cache size : 1024 KB
+physical id : 0
+siblings : 12
+core id : 18
+cpu cores : 12
+apicid : 18
+initial apicid : 10
+fpu : yes
+fpu_exception : yes
+cpuid level : 13
+wp : yes
+flags : fpu de tsc msr pae mce cx8 apic mca cmov pat clflush mmx fxsr
+sse sse2 ht syscall nx mmxext fxsr_opt rdtscp lm constant_tsc rep_good
+nopl nonstop_tsc cpuid extd_apicid tsc_known_freq pni pclmulqdq ssse3
+fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor
+lahf_lm cmp_legacy abm sse4a misalignsse 3dnowprefetch bpext ibpb
+vmmcall fsgsbase bmi1 avx2 bmi2 erms avx512f avx512dq rdseed adx
+avx512ifma clflushopt clwb avx512cd sha_ni avx512bw avx512vl xsaveopt
+xsavec xgetbv1 avx_vnni avx512_bf16 clzero xsaveerptr arat avx512vbmi
+avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg
+avx512_vpopcntdq rdpid fsrm
+bugs : spectre_v1 spectre_v2 spec_store_bypass srso
+bogomips : 3992.53
+TLB size : 192 4K pages
+clflush size : 64
+cache_alignment : 64
+address sizes : 46 bits physical, 48 bits virtual
+power management:
+
+processor : 11
+vendor_id : AuthenticAMD
+cpu family : 26
+model : 36
+model name : AMD Ryzen AI 9 HX 370 w/ Radeon 890M
+stepping : 0
+microcode : 0xb20401b
+cpu MHz : 1996.209
+cache size : 1024 KB
+physical id : 0
+siblings : 12
+core id : 19
+cpu cores : 12
+apicid : 19
+initial apicid : 11
+fpu : yes
+fpu_exception : yes
+cpuid level : 13
+wp : yes
+flags : fpu de tsc msr pae mce cx8 apic mca cmov pat clflush mmx fxsr
+sse sse2 ht syscall nx mmxext fxsr_opt rdtscp lm constant_tsc rep_good
+nopl nonstop_tsc cpuid extd_apicid tsc_known_freq pni pclmulqdq ssse3
+fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor
+lahf_lm cmp_legacy abm sse4a misalignsse 3dnowprefetch bpext ibpb
+vmmcall fsgsbase bmi1 avx2 bmi2 erms avx512f avx512dq rdseed adx
+avx512ifma clflushopt clwb avx512cd sha_ni avx512bw avx512vl xsaveopt
+xsavec xgetbv1 avx_vnni avx512_bf16 clzero xsaveerptr arat avx512vbmi
+avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg
+avx512_vpopcntdq rdpid fsrm
+bugs : spectre_v1 spectre_v2 spec_store_bypass srso
+bogomips : 3992.53
+TLB size : 192 4K pages
+clflush size : 64
+cache_alignment : 64
+address sizes : 46 bits physical, 48 bits virtual 
